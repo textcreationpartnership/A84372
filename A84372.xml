@@ -1,0 +1,647 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Christianity in short or The way to be a good Christian· Recommended to the use of such as want either time or capacity for reading longer and learneder discourses. By C. Ellis author of the Gentile-sinner.</title>
+            <author>Ellis, Clement, 1630-1700.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 76 KB of XML-encoded text transcribed from 38 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84372</idno>
+            <idno type="STC">Wing E552aA</idno>
+            <idno type="STC">ESTC R229363</idno>
+            <idno type="EEBO-CITATION">99896166</idno>
+            <idno type="PROQUEST">99896166</idno>
+            <idno type="VID">153921</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84372)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153921)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2390:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Christianity in short or The way to be a good Christian· Recommended to the use of such as want either time or capacity for reading longer and learneder discourses. By C. Ellis author of the Gentile-sinner.</title>
+                  <author>Ellis, Clement, 1630-1700.</author>
+               </titleStmt>
+               <extent>[6], 66 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Tho. Guy, at the Oxford Armes, on the west side of the Royal Exchange,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's name from Wing CD.</note>
+                  <note>Reproduction of original in the Henry E. Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153921:1" rendition="simple:additions"/>
+            <p>CHRISTIANITY in Short OR The way to be a good CHRISTIAN.</p>
+            <p>Recommended To the uſe of ſuch as want either time or capacity for reading longer and Learneder diſcourſes.</p>
+            <q>
+               <p>
+                  <bibl>
+                     <hi>Mat. VII. 13.14.</hi>
+                  </bibl> Enter ye in at the ſtrait Gate, for wide is the Gate, and broad is the way that leadeth to deſtruction, and many there be which go in thereat:</p>
+               <p>Becauſe strait is the Gate, and narrow is the way which leadeth unto Life, and few there be that find it.</p>
+               <p>
+                  <bibl>
+                     <hi>Ver. 21.</hi>
+                  </bibl> Not every one that ſaith unto me; Lord, Lord, ſhall enter into the Kingdom of Heaven: but he that doth the will of my Father which is in Heaven.</p>
+            </q>
+            <p>By <hi>C. Ellis</hi> Author of the Gentile-ſinner.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Tho. Guy,</hi> at the <hi>Oxford</hi> Armes, on the Weſt ſide of the <hi>Royal Exchange</hi> 1682.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:153921:2"/>
+            <pb facs="tcp:153921:2" rendition="simple:additions"/>
+            <head>To my Beloved Neigh<g ref="char:EOLhyphen"/>bours, for whoſe Uſe this little Book is writ<g ref="char:EOLhyphen"/>ten.</head>
+            <opener>
+               <salute>My Dear Friends,</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Hope ſome of you need not much the help this little Book can af<g ref="char:EOLhyphen"/>ford; and indeed it is a ſhame either for you or me, that any of you ſhould need it, except Children. Yet I fear it is too needful, I pray God it may prove as uſeful to many of you. I have often told you, that neither an Ignorant, nor a
+<pb facs="tcp:153921:3" rendition="simple:additions"/>Carnal, nor a Worldly, nor a For<g ref="char:EOLhyphen"/>mally Religious courſe of Life, can ever bring you to Heaven. I now <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ell it you again; and at you love your Souls, let me intreat you to be<g ref="char:EOLhyphen"/>lieve me; except you become other men than ſome of you, yea than the moſt of you yet are, you cannot be ſaved. You have God's Word to read, you may hear Sermons when you will, you may be inſtructed privately when you will, you have many good Books to inſtruct you, you have ſo much ſenſe as to know you are a dying, you have under<g ref="char:EOLhyphen"/>ſtandings to conſider what's like to become of you, you have ſure, the wit to know that all things here will have an end, and that nothing can concern you ſo much as the Salva<g ref="char:EOLhyphen"/>tion of your Souls, to all Eternity. I am confident were you dying, you
+<pb facs="tcp:153921:3" rendition="simple:additions"/>would ſay ſo. Can it be any thing then, but a brutiſh inconſideration that keeps you in the ſtate you are in? Awake, awake, and ſee here in ſhort what you have to do. 'Tis ſhort, that you may not plead you want time to read and learn it; 'Tis plain, that you may not plead 'tis above your capacity, 'tis cheap, it ſhall coſt you nothing but the pains of reading it for your inſtru<g ref="char:EOLhyphen"/>ction in the way of Life. You will in a little room ſee what it is to be a Chriſtian. Practice then what here you read, and then dye in Peace. But if you ſlight theſe ea<g ref="char:EOLhyphen"/>ſie helps, and will go on your old way, I muſt leave you to God, and comfort my ſelf in this, that I have not dealt deceitfully with you. The good God make us all wiſe unto Sal<g ref="char:EOLhyphen"/>vation; <hi>Amen.</hi>
+            </p>
+            <pb facs="tcp:153921:4" rendition="simple:additions"/>
+            <list>
+               <item>Conſider ſeriouſly.</item>
+               <item>Learn induſtriouſly.</item>
+               <item>Pray devoutly.</item>
+               <item>Believe firmly.</item>
+               <item>Repent ſincerely.</item>
+               <item>Love unfeignedly.</item>
+               <item>Reſolve deliberately.</item>
+               <item>Practice conſtantly.</item>
+               <item>Hope Patiently.</item>
+               <item>Receive Thankfully,</item>
+               <item>
+                  <hi>And</hi>
+               </item>
+               <item>Enjoy Eternally.</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:153921:4"/>
+            <head>The Entrance into CHRI<g ref="char:EOLhyphen"/>STIANITY.</head>
+            <p>I Muſt ſhortly <hi>dye,</hi> and after <hi>death</hi> I muſt for ever be either endleſ<g ref="char:EOLhyphen"/>ly <hi>happy,</hi> or endleſly <hi>miſerable.</hi>
+            </p>
+            <p>It concerneth me therefore, above all things in this <hi>ſhort</hi> time of my Life, ſo to prepare for Death, that after Death, I may be <hi>Eternally</hi> happy.</p>
+            <p>To this end two things are altoge<g ref="char:EOLhyphen"/>ther neceſſary, a ſound <hi>Knowledge,</hi> and a ſincere <hi>Practice.</hi>
+            </p>
+            <p>Two things are needful to be well <hi>known,</hi> the <hi>End</hi> which I am to aim at, and the <hi>Way</hi> which will lead me to it.</p>
+            <p>My daily practice muſt be to <hi>walk</hi>
+               <pb n="2" facs="tcp:153921:5"/>in the <hi>way,</hi> in <hi>hopes</hi> of attaining the <hi>End.</hi>
+            </p>
+            <p>What both theſe are, <hi>JES<g ref="char:V">Ʋ</g>S CHRIST</hi> hath abundantly taught us in his <hi>Goſpel,</hi> which it therefore highly concerneth me diligently to <hi>read</hi> and <hi>learn.</hi>
+            </p>
+            <p>Chriſt hath inſtituted two <hi>Sacra<g ref="char:EOLhyphen"/>ments,</hi> the one for our <hi>entrance</hi> into, the other for our <hi>confirmation</hi> and <hi>ſtrengthning</hi> in the <hi>way</hi> of <hi>Life. Bap<g ref="char:EOLhyphen"/>tiſm,</hi> and the <hi>Supper of the Lord.</hi>
+            </p>
+            <p>In both theſe the whole ſubſtance of <hi>Chriſtian Religion,</hi> which is the <hi>way</hi> to <hi>happineſs,</hi> is ſummarily comprehended and repreſented.</p>
+            <p>Chriſt <hi>JES<g ref="char:V">Ʋ</g>S</hi> commanded his Apo<g ref="char:EOLhyphen"/>ſtles to go up and down in the World, and by <hi>Preaching</hi> the <hi>Goſpel</hi> to per<g ref="char:EOLhyphen"/>ſwade men to be <hi>his Diſciples,</hi> and learn of <hi>him</hi> the way to Life.</p>
+            <p>He commanded them to admit men into his <hi>Church,</hi> or the Society of <hi>his</hi> Diſciples by <hi>Baptiſm,</hi> or waſhing them with Water, in the Name of
+<pb n="3" facs="tcp:153921:5"/>the <hi>Father, Son</hi> and <hi>Holy Ghoſt.</hi>
+            </p>
+            <p>This Ceremony of <hi>Waſhing</hi> with water, did ſignifie and aſſure them, that as many as continued <hi>Chriſt's</hi> faith<g ref="char:EOLhyphen"/>ful followers, were waſhed from the <hi>guilt</hi> of their <hi>paſt</hi> ſins, and ſhould be daily more and more <hi>Sanctified</hi> and prepared for Eternal <hi>Glory.</hi>
+            </p>
+            <p>Perſons of years to underſtand, were thus in Baptiſm to <hi>give</hi> up themſelves in an Holy <hi>Bond</hi> or <hi>Covenant</hi> to <hi>God,</hi> and thus my Parents when I was an Infant, did <hi>give</hi> and <hi>dedicate</hi> me to <hi>God</hi> the <hi>Father, Son,</hi> and <hi>Holy Ghoſt.</hi>
+            </p>
+            <p>In this <hi>Baptiſmal Covenant, God</hi> the <hi>Father</hi> doth give <hi>himſelf</hi> to be our reconciled <hi>Father,</hi> and <hi>God</hi> the <hi>Son Jeſus Chriſt</hi> to be our <hi>Saviour,</hi> and <hi>God</hi> the <hi>Holy Ghoſt</hi> to be our <hi>Sanctifi<g ref="char:EOLhyphen"/>er.</hi>
+            </p>
+            <p>In the ſame <hi>Covenant,</hi> we do accept of <hi>God</hi> the <hi>Father, Son</hi> and <hi>Holy Ghoſt</hi> to be our <hi>only God,</hi> ſubmitting to him as our <hi>Owner</hi> and <hi>Governour,</hi>
+               <pb n="4" facs="tcp:153921:6"/>and chuſing him as our <hi>chief good</hi> and <hi>portion,</hi> and heartily conſenting to be <hi>taught</hi> and <hi>ruled,</hi> made <hi>Holy,</hi> and <hi>
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſaved</hi> by him, in a firm <hi>belief</hi> of his word, and humble <hi>Obedience</hi> to his Lawes.</p>
+            <p>We do alſo promiſe, and reſolve not to follow, nor be led by the <hi>Devil,</hi> the <hi>World,</hi> nor the <hi>Fleſh,</hi> but to <hi>watch</hi> againſt, and <hi>reſiſt</hi> all their temp<g ref="char:EOLhyphen"/>tations, and to <hi>perſevere</hi> ſo doing unto our lives end.</p>
+            <p>Every one that <hi>keepeth</hi> this <hi>Covenant</hi> ſincerely is a <hi>good Chriſtian,</hi> and hath the <hi>pardon</hi> of his ſins, and <hi>Eternal Life ſealed</hi> and <hi>aſſured</hi> unto him by God in this <hi>Sacrament</hi> of <hi>Baptiſm.</hi>
+            </p>
+            <p>As I therefore deſire to be Eternally happy, and would avoid Everlaſting Torments, it concerneth me to ſee that I <hi>keep Covenant</hi> with <hi>God;</hi> which I cannot do, without learning and knowing what I am to <hi>believe</hi> and <hi>do.</hi>
+            </p>
+            <pb n="5" facs="tcp:153921:6"/>
+            <p>If I have not already learn'd this, it is no time now any longer to delay it, ſeeing my Eternal happineſs de<g ref="char:EOLhyphen"/>pends upon it. And I know not how ſoon, no not whether this night, <hi>God</hi> may call me out of this world by <hi>death,</hi> when if I be either <hi>ignorant</hi> or <hi>wicked,</hi> I am <hi>undone Soul and</hi> Body for ever.</p>
+         </div>
+         <div type="text">
+            <pb n="6" facs="tcp:153921:7"/>
+            <head>The Chriſtian Faith.</head>
+            <p>THere is a GOD, and but <hi>one</hi> God, the FATHER, SON and HOLY GHOST.</p>
+            <p>God is an <hi>infinite</hi> and moſt <hi>glorious</hi> SPIRIT, a moſt <hi>pure</hi> and <hi>living ſub<g ref="char:EOLhyphen"/>ſtance,</hi> without <hi>body, parts</hi> or <hi>paſſi<g ref="char:EOLhyphen"/>ons.</hi>
+            </p>
+            <p>God is <hi>inviſible,</hi> cannot be ſeen or perceived by ſenſe.</p>
+            <p>God is <hi>incomprehenſible,</hi> cannot be perfectly known by any but himſelf.</p>
+            <p>God is <hi>Immortal,</hi> cannot dye; <hi>Im<g ref="char:EOLhyphen"/>paſſible,</hi> and cannot ſuffer.</p>
+            <p>God is <hi>Immenſe,</hi> not limited to place, but is every where.</p>
+            <p>God is <hi>Eternal,</hi> not limited by time, but without beginning or end.</p>
+            <p>God is <hi>Independent,</hi> not cauſed or governed by any other.</p>
+            <pb n="7" facs="tcp:153921:7"/>
+            <p>God is <hi>Immutable,</hi> not ſubject to change, but neceſſarily what he is, the ſame for ever.</p>
+            <p>God is <hi>Almighty,</hi> able to do all things: <hi>Omniſcient,</hi> knowing all things; infinitely <hi>Wiſe,</hi> in ordering all things.</p>
+            <p>God is Infinitely <hi>good,</hi> and the Fountain of all goodneſs, <hi>Holy</hi> and <hi>Juſt,</hi> and <hi>Merciful.</hi>
+            </p>
+            <p>God is <hi>ſelf-ſufficient,</hi> perfectly <hi>bleſ<g ref="char:EOLhyphen"/>ſed,</hi> and <hi>happy</hi> in <hi>himſelf</hi> alone, need<g ref="char:EOLhyphen"/>ing nothing, but Infinite in all perfecti<g ref="char:EOLhyphen"/>ons.</p>
+            <p>The <hi>Father</hi> begetting the <hi>Son,</hi> the <hi>Son</hi> begotten of the <hi>Father,</hi> the <hi>Holy Ghoſt</hi> proceeding from the <hi>Father</hi> and the <hi>Son,</hi> are Three <hi>Perſons,</hi> but <hi>one uncompounded, undivided</hi> GOD, bleſ<g ref="char:EOLhyphen"/>ſed for ever.</p>
+            <p>God is the <hi>Maker</hi> or <hi>Creator</hi> of all things, the <hi>Preſerver</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>pholder</hi> of all things.</p>
+            <p>God is the abſolute <hi>Owner</hi> and <hi>Lord</hi> of all things.</p>
+            <pb n="8" facs="tcp:153921:8"/>
+            <p>God is our Soveraign <hi>King,</hi> Su<g ref="char:EOLhyphen"/>pream <hi>Law-giver,</hi> and Righteous <hi>Judge.</hi>
+            </p>
+            <p>God is our chief <hi>good,</hi> and loving <hi>Father,</hi> and bountiful <hi>Benefactor.</hi>
+            </p>
+            <p>All <hi>Life,</hi> and <hi>Power,</hi> and <hi>Wiſdom,</hi> come from <hi>God,</hi> and our final <hi>reſt,</hi> and perfect <hi>happineſs</hi> is in <hi>Him</hi> alone.</p>
+            <p>God is a moſt <hi>free</hi> Agent, and doth <hi>what,</hi> and <hi>when,</hi> and <hi>how</hi> he will.</p>
+            <p>In the <hi>Beginning,</hi> by his <hi>Word</hi> of his own good <hi>pleaſure,</hi> he made the <hi>World,</hi> and all things in ſix dayes, when before there was <hi>nothing</hi> but <hi>Himſelf.</hi>
+            </p>
+            <p>All that <hi>God</hi> made was very <hi>good.</hi>
+            </p>
+            <p>God by his <hi>Providence preſerveth, ruleth</hi> and <hi>ordereth</hi> all things, <hi>great</hi> and <hi>ſmall.</hi>
+            </p>
+            <p>There is no <hi>goodneſs</hi> in any thing, but what <hi>God</hi> giveth, nothing can come to paſs, but as <hi>God</hi> permitteth it.</p>
+            <p>God may juſtly do what he <hi>will</hi> with every thing, he can do no <hi>wrong</hi>
+               <pb n="9" facs="tcp:153921:8"/>to any thing, he ordereth the whole courſe of the World <hi>wiſely,</hi> and for the <hi>beſt.</hi>
+            </p>
+            <p>God made an innumerable compa<g ref="char:EOLhyphen"/>ny of <hi>Angels,</hi> or pure Spirits.</p>
+            <p>A great multitude of theſe <hi>Angels</hi> continue <hi>holy</hi> and <hi>happy</hi> in <hi>loving, prai<g ref="char:EOLhyphen"/>ſing</hi> and <hi>enjoying God,</hi> doing his Com<g ref="char:EOLhyphen"/>mandments, and ſerving him in ſuch Miniſtries as he pleaſeth to employ them in, for the good of his people.</p>
+            <p>Many of the <hi>Angels</hi> did <hi>ſin,</hi> and were caſt down to <hi>Hell,</hi> into Ever<g ref="char:EOLhyphen"/>laſting torments. Theſe are <hi>Devils,</hi> under <hi>Beelzebub</hi> the <hi>Prince of Devils, the Old Serpent,</hi> and <hi>Satan.</hi>
+            </p>
+            <p>The <hi>Devil</hi> is the <hi>Spirit</hi> that work<g ref="char:EOLhyphen"/>eth in the <hi>children of Diſobedience;</hi> the <hi>Father</hi> of <hi>Evil-doers,</hi> going about like a roaring <hi>Lyon,</hi> ſeeking whom he may devour.</p>
+            <p>God made <hi>Adam</hi> the firſt man, of the <hi>Duſt</hi> of the Earth, and the firſt woman <hi>Eve,</hi> of a Rib of <hi>Adam.</hi>
+            </p>
+            <pb n="10" facs="tcp:153921:9"/>
+            <p>
+               <hi>Man</hi> hath two parts, a <hi>Body</hi> of Fleſh and Bones, and a <hi>Soul</hi> which is a Spirit.</p>
+            <p>
+               <hi>God</hi> made <hi>Man</hi> after his <hi>own</hi> Image, he gave him an <hi>Immortal</hi> ſoul, endued with <hi>underſtanding,</hi> a <hi>free will,</hi> and a <hi>power</hi> to do good, and <hi>authority</hi> to rule and uſe the creatures, for ſuch ends as <hi>God</hi> deſigned them.</p>
+            <p>
+               <hi>God</hi> made not <hi>man</hi> a <hi>Lawleſs</hi> crea<g ref="char:EOLhyphen"/>ture, to live as it ſhould <hi>liſt</hi> him, but <hi>God</hi> made him for <hi>himſelf,</hi> and to <hi>ſerve</hi> him in Holy <hi>Love,</hi> and perfect <hi>Obedience.</hi>
+            </p>
+            <p>
+               <hi>Man</hi> underſtood <hi>God's Will,</hi> and that <hi>Will</hi> underſtood, was the <hi>Law</hi> in his heart, whereby he was to live; Knowing <hi>God</hi> to be his <hi>Owner</hi> and <hi>Go<g ref="char:EOLhyphen"/>vernour,</hi> and <hi>chief good,</hi> he was bound to <hi>reſign</hi> himſelf to <hi>his</hi> diſpoſal, <hi>ſubmit</hi> himſelf to <hi>his</hi> command, and to <hi>de<g ref="char:EOLhyphen"/>light</hi> himſelf in <hi>him</hi> above all.</p>
+            <p>If <hi>Man</hi> had done thus, he ſhould never have <hi>dyed,</hi> but have lived for ever happy in the <hi>love</hi> and <hi>enjoyment</hi> of <hi>God.</hi>
+            </p>
+            <pb n="11" facs="tcp:153921:9"/>
+            <p>
+               <hi>God</hi> having placed man in the garden of <hi>Eden,</hi> gave him free leave to eat of all the Trees thereof, only excepting the <hi>Tree of the knowledge of good and evil;</hi> which upon pain of <hi>death,</hi> he charged him not to eat of.</p>
+            <p>But the <hi>Devil</hi> in a <hi>Serpent</hi> Tempt<g ref="char:EOLhyphen"/>ed <hi>Eve,</hi> and by <hi>her</hi> he tempted <hi>Adam</hi> to eat thereof, and ſo <hi>ſin</hi> againſt <hi>God</hi> in breaking his <hi>command.</hi>
+            </p>
+            <p>By breaking God's Law, they loſt their <hi>Holineſs,</hi> and became <hi>Mortal</hi> un<g ref="char:EOLhyphen"/>der the curſe of <hi>Death;</hi> hearkening to the <hi>Devil</hi> they fell under <hi>his</hi> power, loving their <hi>own</hi> pleaſure more than <hi>God,</hi> they loſt their <hi>Happineſs.</hi> Thus they who were made <hi>Wiſe,</hi> and <hi>Pow<g ref="char:EOLhyphen"/>erful,</hi> and <hi>Happy,</hi> made themſelves <hi>fooliſh,</hi> and <hi>weak,</hi> and <hi>miſerable.</hi>
+            </p>
+            <p>We are all the <hi>children</hi> of <hi>ſinful Adam,</hi> and of <hi>unholy</hi> Parents are born <hi>unholy, ignorant</hi> of God, our <hi>duty,</hi> and our <hi>happineſs, dead</hi> to goodneſs, <hi>forward</hi> to evil, eaſily <hi>conquered</hi> by the temptations of the <hi>Devil,</hi> the
+<pb n="12" facs="tcp:153921:10"/>
+               <hi>World,</hi> and the <hi>Fleſh;</hi> and if left to our <hi>ſelves</hi> muſt periſh Everlaſtingly.</p>
+            <p>If <hi>God</hi> had puniſhed <hi>Adam</hi> accord<g ref="char:EOLhyphen"/>ing to his <hi>ſin</hi> with <hi>death;</hi> He had cut off <hi>Mankind</hi> from the Earth; But he was graciouſly pleaſed to ſhew <hi>mer<g ref="char:EOLhyphen"/>cy.</hi>
+            </p>
+            <p>
+               <hi>God</hi> ſuffered <hi>man</hi> to live for a time upon Earth, but <hi>ſo,</hi> as he might be ſenſible of the great evil he had brought upon himſelf by breaking God's Com<g ref="char:EOLhyphen"/>mandment.</p>
+            <p>The <hi>creatures</hi> are accurſed to bring forth for him <hi>vanity</hi> and <hi>trouble,</hi> and <hi>vexation, hard labour, pains</hi> and <hi>ſick<g ref="char:EOLhyphen"/>neſſes</hi> come upon his body, he becomes <hi>aſhamed</hi> of <hi>himſelf,</hi> and is filled with <hi>terrors</hi> of <hi>Conſcience,</hi> and having ſtrug<g ref="char:EOLhyphen"/>gled through many <hi>evils</hi> and <hi>difficul<g ref="char:EOLhyphen"/>ties</hi> muſt at laſt <hi>dye,</hi> and return to duſt.</p>
+            <p>Yet <hi>God</hi> opened unto him a <hi>new</hi> way to <hi>Eternal</hi> happineſs after death; in ſuch a way as to magnifie his <hi>Love</hi> and <hi>Mercy</hi> to <hi>Mankind,</hi> and manifeſt his <hi>hatred</hi> of <hi>ſin,</hi> and <hi>Zeal</hi> for the keep<g ref="char:EOLhyphen"/>ing
+<pb n="13" facs="tcp:153921:10"/>of his <hi>Laws,</hi> that he might at once ſhew <hi>grace</hi> to the <hi>Offender,</hi> and ſecure the <hi>honour</hi> of his juſt <hi>govern<g ref="char:EOLhyphen"/>ment.</hi>
+            </p>
+            <p>God did graciouſly promiſe that a <hi>man</hi> ſhould be born of a <hi>woman,</hi> who ſhould conquer the <hi>Devil,</hi> and deliver <hi>man</hi> from his <hi>Tyranny,</hi> and give ſuch <hi>ſatisfaction</hi> unto <hi>God's Juſtice,</hi> that for <hi>his</hi> ſake, all they ſhould be Eternally <hi>happy</hi> that would <hi>accept</hi> of <hi>him</hi> for their <hi>Saviour.</hi>
+            </p>
+            <p>Accordingly, <hi>God ſo loved the world, that he gave his only Begotten Son, that whoſoever believeth in him ſhould not pe<g ref="char:EOLhyphen"/>riſh; but have Everlaſting Life.</hi>
+            </p>
+            <p>
+               <hi>God</hi> the <hi>Son</hi> took to himſelf our <hi>hu<g ref="char:EOLhyphen"/>mane nature, Soul and Body,</hi> and was made <hi>truly man,</hi> yet ceaſed not to be <hi>truly God,</hi> but is both <hi>God</hi> and <hi>Man</hi> in one <hi>Perſon, God manifeſted in the Fleſh.</hi>
+            </p>
+            <p>He was wonderfully made <hi>Man,</hi> by being <hi>Born</hi> without all ſtain of <hi>ſin,</hi> of a pure <hi>Virgin</hi> called <hi>Mary,</hi> who
+<pb n="14" facs="tcp:153921:11"/>conceived <hi>him</hi> by the <hi>Divine</hi> power of the <hi>Holy Ghoſt,</hi> when ſhe had never known man.</p>
+            <p>An <hi>Angel</hi> from Heaven revealed his <hi>conception</hi> to the Bleſſed <hi>Virgin,</hi> and commanded his <hi>name</hi> to be called Jeſus, becauſe he was to <hi>ſave</hi> his peo<g ref="char:EOLhyphen"/>ple from their <hi>ſins.</hi>
+            </p>
+            <p>Being <hi>Born</hi> and <hi>Circumciſed</hi> accord<g ref="char:EOLhyphen"/>ing to the <hi>Law,</hi> he lived many years upon earth in an <hi>humble</hi> and <hi>low</hi> condi<g ref="char:EOLhyphen"/>tion, gave us an <hi>example</hi> to imitate in his <hi>Life,</hi> doing the <hi>whole will</hi> of <hi>God,</hi> and conquering all the <hi>temptations</hi> of the <hi>Devil,</hi> and the <hi>World.</hi>
+            </p>
+            <p>This is that <hi>Meſſia</hi> whom many <hi>Prophets</hi> had foretold, the very CHRIST, or <hi>anointed</hi> of the <hi>Lord</hi> to be a <hi>Prophet,</hi> a <hi>Prieſt</hi> and a <hi>King,</hi> and in this Threefold <hi>Office</hi> the <hi>Medi<g ref="char:EOLhyphen"/>ator</hi> of a <hi>New Covenant</hi> between <hi>God</hi> and <hi>Men.</hi>
+            </p>
+            <p>As a <hi>Prophet</hi> he hath in his <hi>Goſpel,</hi> and by his <hi>Apoſtles</hi> made known unto us all his <hi>Fathers will</hi> concerning our
+<pb n="15" facs="tcp:153921:11"/>
+               <hi>ſalvation,</hi> and the <hi>way</hi> to it.</p>
+            <p>As a <hi>Prieſt,</hi> he was <hi>Crucified,</hi> and <hi>dyed</hi> under <hi>Pontius Pilate,</hi> ſo offering <hi>himſelf</hi> once for all, a <hi>perfect</hi> and <hi>ſuf<g ref="char:EOLhyphen"/>ficient ſacrifice</hi> for the forgiveneſs of our <hi>ſins,</hi> in conſideration: whereof, <hi>God</hi> hath granted <hi>pardon</hi> and <hi>Life</hi> to all true <hi>Believers.</hi>
+            </p>
+            <p>Being dead he was <hi>buried,</hi> and wentiamong the <hi>dead,</hi> and the <hi>Third</hi> day <hi>roſe again</hi> to Life, now to <hi>dye</hi> no more, and having <hi>ſealed</hi> the <hi>Covenant</hi> in his <hi>Blood,</hi> he left inſtructions with his <hi>Apoſtles</hi> to admit men into it by <hi>Baptiſm,</hi> and <hi>teach</hi> them how to keep it, and promiſed them the gift of the <hi>Holy Ghoſt.</hi>
+            </p>
+            <p>After ſome dayes, he in their ſight <hi>went up</hi> into <hi>Heaven,</hi> and is <hi>glorified</hi> at <hi>God's Right-hand,</hi> in <hi>Power</hi> and <hi>Majeſty;</hi> And as <hi>King, ruleth</hi> and <hi>protecteth</hi> his <hi>Church,</hi> Reigneth in the <hi>hearts</hi> of his ſubjects, ſubdueth all his <hi>Enemies,</hi> and is our <hi>Advecate</hi> with the <hi>Father,</hi> rendering our <hi>perſons</hi> and <hi>ſer<g ref="char:EOLhyphen"/>vices</hi>
+               <pb n="16" facs="tcp:153921:12"/>accepted of him, and prevaiſ<g ref="char:EOLhyphen"/>ing for all good bleſſings on us.</p>
+            <p>Shortly after his <hi>Aſcenſion,</hi> on the day of <hi>Pemecoſt, Chriſt</hi> ſent the <hi>Holy Ghoſt,</hi> the <hi>Eternal Spirit</hi> of the <hi>Fa<g ref="char:EOLhyphen"/>ther</hi> and the <hi>Son,</hi> upon the <hi>Apoſtles,</hi> to <hi>guide</hi> them into all ſaving <hi>truth,</hi> to enable them to <hi>Preach</hi> to every Nati<g ref="char:EOLhyphen"/>on in its <hi>own</hi> Language, to write the <hi>Holy Scriptures,</hi> and to <hi>ſeal</hi> and <hi>con<g ref="char:EOLhyphen"/>firm</hi> the truth of them by many <hi>Mira<g ref="char:EOLhyphen"/>cles,</hi> and wonderful works, and to en<g ref="char:EOLhyphen"/>courage them to a conſtant <hi>ſuffering</hi> for <hi>Chriſt,</hi> even unto <hi>death.</hi>
+            </p>
+            <p>The <hi>Scriptures</hi> of the <hi>Old</hi> and <hi>New Teſtament</hi> are the very <hi>Word</hi> of <hi>God,</hi> which Holy men of <hi>God</hi> ſpake, and writ as they were moved by the <hi>Holy Ghoſt,</hi> and they contain all things ne<g ref="char:EOLhyphen"/>ceſſary to <hi>Salvation,</hi> and are the ſtanding Sealed <hi>Rule</hi> of <hi>Faith</hi> and <hi>Life.</hi>
+            </p>
+            <p>The <hi>Holy Ghoſt</hi> is <hi>Chriſt's Advo<g ref="char:EOLhyphen"/>cate,</hi> pleading his cauſe with men. He is our <hi>Sanctifier,</hi> enlightening,
+<pb n="17" facs="tcp:153921:12"/>opening, ſoftning, changing and re<g ref="char:EOLhyphen"/>newing our hearts and minds to re<g ref="char:EOLhyphen"/>ceive, and grow in <hi>knowledge</hi> and <hi>grace:</hi> Making the word effectual for our <hi>conviction</hi> and <hi>converſion,</hi> helping us to <hi>pray,</hi> and ſtirring us up to <hi>good<g ref="char:EOLhyphen"/>neſs, comforting</hi> us with a ſenſe of its operations, and <hi>ſtrengthening</hi> us to withſtand temptations, and hold out in a <hi>Chriſtian</hi> courſe unto the end.</p>
+            <p>All thoſe that are <hi>regenerated, en<g ref="char:EOLhyphen"/>lightened</hi> and <hi>converted</hi> by the <hi>Holy Ghoſt</hi> are <hi>one Holy Church,</hi> whereof <hi>Chriſt</hi> is the only <hi>Head.</hi> All that <hi>out<g ref="char:EOLhyphen"/>wardly</hi> profeſs Chriſtianity, and have been <hi>Baptized,</hi> are to be <hi>accounded</hi> Holy by a viſible <hi>ſeparation</hi> and <hi>dedi<g ref="char:EOLhyphen"/>cation</hi> to <hi>God,</hi> till they cut <hi>themſelves</hi> off by <hi>Schiſm,</hi> or are juſtly caſt out by <hi>Excommunication.</hi>
+            </p>
+            <p>
+               <hi>Chriſt's Church</hi> is not limited to any Nation or People, but extends to all <hi>places,</hi> is propagated in all <hi>Ages,</hi> and containeth all <hi>ſaving truth;</hi> and in this ſenſe is <hi>
+                  <g ref="char:V">Ʋ</g>niverſal</hi> or <hi>Catholick.</hi>
+            </p>
+            <pb n="18" facs="tcp:153921:13"/>
+            <p>All the <hi>Sanctified</hi> Members of this <hi>Myſtical Body</hi> of <hi>Chriſt,</hi> have <hi>Fellow<g ref="char:EOLhyphen"/>ſhip</hi> with the <hi>Father,</hi> and <hi>Son,</hi> by one <hi>Holy Spirit;</hi> with <hi>Angels</hi> in their <hi>love, care</hi> and <hi>Miniſtries,</hi> with the glorifi<g ref="char:EOLhyphen"/>ed <hi>Saints</hi> in Heaven in their <hi>love</hi> and <hi>prayers,</hi> and with one another on Earth, in the ſame <hi>Faith;</hi> and <hi>Hope,</hi> and <hi>Love, Word</hi> and <hi>Sacraments,</hi> bound to hold the <hi>
+                  <g ref="char:V">Ʋ</g>nity</hi> of the <hi>Spirit</hi> in the <hi>bond</hi> of <hi>peace.</hi>
+            </p>
+            <p>All theſe have in conſideration of <hi>Chriſt's ſatisfaction,</hi> a full <hi>pardon</hi> of all <hi>paſt</hi> ſins given of <hi>God,</hi> and <hi>Sacra<g ref="char:EOLhyphen"/>mentally</hi> ſealed unto them in <hi>Baptiſm,</hi> with an <hi>aſſurance</hi> of <hi>final</hi> juſtification and <hi>Salvation,</hi> upon condition of their <hi>perſeverance</hi> in <hi>Repentance</hi> and <hi>Faith.</hi>
+            </p>
+            <p>At <hi>death</hi> the <hi>ſouls</hi> of the <hi>faithful</hi> reſt with <hi>God</hi> in <hi>peace</hi> and <hi>happineſs,</hi> and the <hi>ſouls</hi> of the <hi>wicked</hi> go into an endleſs ſtate of <hi>miſery.</hi>
+            </p>
+            <p>The <hi>bodies</hi> of all men ſhall be <hi>raiſed</hi> again after death, and ſhall be again united to their <hi>ſouls.</hi>
+            </p>
+            <pb n="19" facs="tcp:153921:13"/>
+            <p>All men ſhall after the <hi>Reſurrection</hi> appear before the <hi>Judgment ſeat</hi> of <hi>Chriſt,</hi> where the <hi>wicked</hi> ſhall be <hi>con<g ref="char:EOLhyphen"/>demned</hi> to Everlaſting torments, but the <hi>Righteous</hi> ſhall be finally <hi>acquitted,</hi> and go into Everlaſting <hi>Life</hi> and <hi>Joy,</hi> happy in the conſtant and perfect <hi>love</hi> of <hi>God, praiſing him, delighting</hi> in <hi>him,</hi> amongſt all Bleſſed Angels and <hi>Saints</hi> to all Eternity.</p>
+         </div>
+         <div type="text">
+            <head>The heads of the Chriſti<g ref="char:EOLhyphen"/>an's Duty.</head>
+            <p>IF any man would be <hi>ſaved,</hi> he muſt firſt be <hi>born again</hi> of the <hi>Holy Spi<g ref="char:EOLhyphen"/>rit,</hi> be <hi>converted,</hi> and become a <hi>new creature, Holy</hi> in <hi>Heart</hi> and <hi>Life;</hi> otherwiſe he cannot enter in the King<g ref="char:EOLhyphen"/>dom of God.</p>
+            <pb n="20" facs="tcp:153921:14"/>
+            <p>
+               <hi>The grace of God hath appeared, teaching us that denying ungodlineſs and worldly luſts, we ſhould live ſoberly and Righteouſly, and Godly in this preſent World.</hi>
+            </p>
+            <p>I muſt not think my ſelf to be my <hi>own,</hi> ſo that I may live as I liſt; but muſt humbly acknowledge there is a <hi>God</hi> above me, <hi>whoſe</hi> I am, and <hi>whom</hi> I am bound to ſerve all the dayes of my Life.</p>
+            <p>I muſt take the <hi>true God</hi> alone for <hi>my God,</hi> even the <hi>Father, Son</hi> and <hi>Ho<g ref="char:EOLhyphen"/>ly Ghoſt,</hi> and worſhip him as my <hi>Ma<g ref="char:EOLhyphen"/>ker, Redeemer</hi> and <hi>Sanctifier.</hi>
+            </p>
+            <p>I muſt by a daily diligent reading, ſtudying and meditating on his <hi>word,</hi> and conſidering of his <hi>works</hi> labour, get a true <hi>knowledge</hi> of <hi>God,</hi> and not content my ſelf in ignorance of him.</p>
+            <p>I muſt worſhip God in <hi>Spirit</hi> and in <hi>Truth,</hi> with the <hi>heart</hi> and <hi>ſoul ſin<g ref="char:EOLhyphen"/>cerely.</hi>
+            </p>
+            <p>I muſt ſtedfaſtly believe the whole <hi>Word</hi> of <hi>God,</hi> the <hi>Hiſtory</hi> for my <hi>in<g ref="char:EOLhyphen"/>ſtruction,</hi>
+               <pb n="21" facs="tcp:153921:14"/>the <hi>Precepts</hi> for my <hi>direction,</hi> the <hi>Promiſes</hi> for my <hi>encouragement,</hi> the <hi>threatnings</hi> to <hi>affright</hi> me from <hi>ſin,</hi> bewaring of all temptations to <hi>unbelief</hi> or a <hi>falſe Faith.</hi>
+            </p>
+            <p>I muſt live in a patient expectation, and <hi>hope</hi> of what <hi>God</hi> hath <hi>promiſed,</hi> neither <hi>deſpairing</hi> of mercy if I <hi>repent,</hi> nor <hi>preſuming</hi> of Mercy, if <hi>I repent not.</hi>
+            </p>
+            <p>
+               <hi>I</hi> muſt <hi>love God</hi> as the chief <hi>good,</hi> with the higheſt love, <hi>chuſing</hi> him for my only <hi>portion,</hi> delighting in him as my only <hi>comfort,</hi> willing to part with <hi>Life</hi> it ſelf to enjoy <hi>him,</hi> and making light of all things, ſo <hi>I</hi> may pleaſe him, loving his <hi>Image</hi> as far as <hi>I</hi> ſee it in every man, eſpecially in <hi>Jeſus Chriſt</hi> my <hi>Saviour.</hi>
+            </p>
+            <p>It is my duty to ſtand in <hi>awe</hi> of God's <hi>threatnings</hi> and <hi>judgments,</hi> and to be very <hi>cautious</hi> and <hi>circumſpect</hi> in all my wayes, <hi>watching</hi> over my <hi>thoughts, words</hi> and <hi>actions, fearing</hi> to offend him in any thing; neither
+<pb n="22" facs="tcp:153921:15"/>
+               <hi>fearing</hi> nor <hi>loving</hi> any thing elſe ſo much, as to venture upon the <hi>least ſin.</hi>
+            </p>
+            <p>
+               <hi>I</hi> muſt intirely <hi>truſt</hi> and <hi>confide</hi> in <hi>God,</hi> both in all wants and dangers, whether of Soul or Body; Conſcien<g ref="char:EOLhyphen"/>tiouſly uſing ſuch <hi>means</hi> as he alloweth: <hi>Praying</hi> devoutly unto him for his Bleſ<g ref="char:EOLhyphen"/>ſing, and caſting all my <hi>care</hi> for the ſucceſs upon <hi>him,</hi> not doubting of his never failing <hi>power</hi> and <hi>goodneſs:</hi>
+            </p>
+            <p>I muſt walk <hi>humbly</hi> before God, thinking <hi>meanly</hi> of <hi>my ſelf;</hi> renoun<g ref="char:EOLhyphen"/>cing all my own <hi>worth</hi> or <hi>merits,</hi> ac<g ref="char:EOLhyphen"/>knowledging all that <hi>I am, have</hi> or <hi>hope</hi> for to be of <hi>his</hi> gift, taking <hi>pati<g ref="char:EOLhyphen"/>ently</hi> and <hi>thankfully</hi> all his <hi>chaſtiſements,</hi> and labouring to <hi>profit</hi> by them, and confeſſing that he doth all things <hi>wiſely</hi> and <hi>well.</hi>
+            </p>
+            <p>
+               <hi>I</hi> muſt behave my ſelf uprightly and ſincerely, as in <hi>his preſence;</hi> and do all <hi>I</hi> do as unto <hi>him,</hi> with a <hi>pure</hi> heart; avoiding all <hi>guile, diſſimulati<g ref="char:EOLhyphen"/>on</hi> and <hi>hypocriſie;</hi> not indulging the
+<pb n="23" facs="tcp:153921:15"/>leaſt evil <hi>thought, inclination</hi> or <hi>de<g ref="char:EOLhyphen"/>ſire;</hi> keeping up <hi>high</hi> and <hi>honourable</hi> thoughts of <hi>him,</hi> and preſerving my <hi>Conſcience</hi> tender, and my heart <hi>ſoft</hi> and <hi>eaſie</hi> to take the impreſſions of his <hi>word</hi> and <hi>ſpirit.</hi>
+            </p>
+            <p>
+               <hi>I</hi> muſt ſhun all groſs <hi>repreſentations</hi> of God, or <hi>likening</hi> him ſo much as in my thoughts to any <hi>creature. I</hi> am not to worſhip him after my <hi>own</hi> con<g ref="char:EOLhyphen"/>ceit or fancy, but according to the <hi>rules</hi> he hath given in his <hi>word;</hi> not with a formal, but a ſpiritual worſhip; drawing near unto him in <hi>Prayer</hi> and <hi>praiſe,</hi> and all his Ordinances with my <hi>heart</hi> and <hi>affections.</hi>
+            </p>
+            <p>
+               <hi>I</hi> muſt uſe the ſacred <hi>name</hi> of God with all due <hi>reverence,</hi> not profaning it by <hi>blaſphemous, idle</hi> or <hi>impertinent</hi> talk; or by <hi>falſe, common</hi> or <hi>needleſs ſwearing;</hi> or by breaking my Holy <hi>Vows</hi> and <hi>Covenants;</hi> nor any way giving occaſion by my inſincere pro<g ref="char:EOLhyphen"/>feſſion of his name unto others, to blaſpheme or profane it.</p>
+            <pb n="24" facs="tcp:153921:16"/>
+            <p>
+               <hi>I</hi> muſt honour the <hi>Lord</hi> in his <hi>day,</hi> by ſpending it in his <hi>Worſhip,</hi> medita<g ref="char:EOLhyphen"/>ting on, and praiſing him for his won<g ref="char:EOLhyphen"/>derful works of <hi>Creation</hi> and <hi>Redemp<g ref="char:EOLhyphen"/>tion.</hi> Eſpecially in the <hi>Publick</hi> Aſſem<g ref="char:EOLhyphen"/>blies, bearing my part devoutly in the <hi>Prayers</hi> of his <hi>Church,</hi> attending to his word <hi>Preached</hi> and <hi>Read,</hi> and Communicating in his <hi>Sacraments.</hi>
+            </p>
+            <p>
+               <hi>I</hi> muſt not think too highly of my <hi>ſelf,</hi> nor be <hi>proud</hi> of any thing <hi>I am, have</hi> or <hi>can</hi> do, ſeeing all is the unde<g ref="char:EOLhyphen"/>ſerved gift of God.</p>
+            <p>
+               <hi>I</hi> muſt not humour my <hi>paſſions,</hi> but labour to be of a <hi>meek,</hi> and <hi>quiet,</hi> and <hi>docible</hi> Spirit.</p>
+            <p>
+               <hi>I</hi> muſt make uſe of my <hi>reaſon,</hi> in conſidering what <hi>I am,</hi> and whence <hi>I came,</hi> and whither <hi>I</hi> muſt <hi>go;</hi> why <hi>I live,</hi> and how <hi>I</hi> muſt <hi>dye,</hi> and what ſhall <hi>become</hi> of me after death; what <hi>I</hi> owe to <hi>God,</hi> and <hi>men,</hi> and my <hi>ſelf,</hi> and how <hi>I pay</hi> it. <hi>I</hi> muſt often exa<g ref="char:EOLhyphen"/>mine the <hi>ſtate</hi> of my Soul, and whe<g ref="char:EOLhyphen"/>ther <hi>I</hi> be converted from the <hi>ſtate</hi> of
+<pb n="25" facs="tcp:153921:16"/>
+               <hi>ſin,</hi> into the <hi>ſtate</hi> of <hi>grace,</hi> and all my <hi>thoughts, words</hi> and <hi>actions,</hi> whether they be conformable to the <hi>will</hi> of God. <hi>I</hi> ſhould often think of the vanity of this <hi>World,</hi> and ſinful <hi>pleaſures,</hi> the certainty of <hi>death,</hi> the impartiality of <hi>judgment,</hi> the glories of <hi>Heaven,</hi> the terrors of <hi>Hell,</hi> the comforts of a good <hi>Conſcience,</hi> and what <hi>I</hi> muſt do to be <hi>ſaved,</hi> with the neceſſity of a <hi>Godly Life.</hi>
+            </p>
+            <p>
+               <hi>I</hi> muſt be heartily <hi>contented</hi> with my preſent lot and portion; not <hi>murmu<g ref="char:EOLhyphen"/>ring</hi> or <hi>repining</hi> at <hi>God's</hi> dealings, not ambitiouſly ſeeking a more <hi>high</hi> or <hi>plentiful</hi> condition, not <hi>fretting</hi> at my <hi>wants</hi> or <hi>ſufferings,</hi> nor <hi>vexing</hi> my Soul with Worldly <hi>cares,</hi> nor <hi>envying</hi> the more flouriſhing condition of others, but conclude that <hi>beſt</hi> which <hi>God</hi> chu<g ref="char:EOLhyphen"/>ſeth for me.</p>
+            <p>
+               <hi>I</hi> muſt be a good husband of my <hi>time,</hi> induſtriouſly improving it to the <hi>good</hi> of my ſelf and others; not waſt<g ref="char:EOLhyphen"/>ing it unprofitably in <hi>idleneſs, ſports</hi>
+               <pb n="26" facs="tcp:153921:17"/>and <hi>vanities,</hi> but labouring in an ho<g ref="char:EOLhyphen"/>neſt <hi>calling.</hi>
+            </p>
+            <p>
+               <hi>I</hi> muſt be <hi>chaſt</hi> and <hi>clean</hi> in <hi>Mind</hi> and <hi>Body,</hi> entertaining no <hi>wanton</hi> thought or deſire, or look, or dreſs, ſhunning all <hi>laſciviouſneſs</hi> and <hi>obſcene</hi> diſcourſe, books, geſtures, and en<g ref="char:EOLhyphen"/>ticements to <hi>luſt</hi> and <hi>uncleanneſs.</hi>
+            </p>
+            <p>
+               <hi>I</hi> muſt be <hi>temperate</hi> and <hi>moderate</hi> in <hi>eating, drinking, ſleeping, recreati<g ref="char:EOLhyphen"/>ons</hi> and <hi>apparel;</hi> not pleaſing my <hi>Appe<g ref="char:EOLhyphen"/>tite,</hi> or waſting my <hi>Eſtate,</hi> or looſing my <hi>time</hi> in any of them, but uſing them onely in ſuch a meaſure as may beſt preſerve my bodily <hi>health,</hi> to ſerve my <hi>Soul</hi> in ſerving <hi>God.</hi>
+            </p>
+            <p>
+               <hi>I</hi> muſt <hi>love my Neighbour as my ſelf,</hi> and do to all men, as <hi>I</hi> would they ſhould do to me, that is, all the good <hi>I</hi> can, rendering to every man his <hi>due.</hi>
+            </p>
+            <p>Eſpecially <hi>I</hi> muſt love, and do good to thoſe that are of the <hi>Houſhould of Faith,</hi> and love every man the <hi>more,</hi> by how much I ſee <hi>more</hi> of <hi>God's image</hi> upon him.</p>
+            <pb n="27" facs="tcp:153921:17"/>
+            <p>Above all, <hi>I</hi> muſt labour to do good to mens <hi>Souls,</hi> by <hi>teaching, reproving, exhorting, comforting</hi> and <hi>Praying</hi> for them; Not <hi>hurting, grieving, ſcan<g ref="char:EOLhyphen"/>da<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>izing</hi> or <hi>tempting</hi> them to evil, by <hi>advice, countenance</hi> or <hi>example.</hi>
+            </p>
+            <p>
+               <hi>Parents</hi> muſt <hi>dedicate</hi> their <hi>children</hi> to <hi>God,</hi> inſtruct and educate them in the <hi>knowledge</hi> and <hi>fear</hi> of God, cor<g ref="char:EOLhyphen"/>rect all <hi>vice</hi> in them, and give them good <hi>example,</hi> maintaining them, and providing honeſt <hi>callings</hi> for them, as they are able.</p>
+            <p>
+               <hi>Children</hi> muſt <hi>love, honour, obey, ſerve,</hi> and as there is need <hi>relieve</hi> their <hi>Parents</hi> with all <hi>thankfulneſs.</hi>
+            </p>
+            <p>
+               <hi>Husbands</hi> and <hi>Wives</hi> muſt live in an holy, mutual, conjugal <hi>love</hi> to each other; helping one another in ſerving <hi>God,</hi> Educating their <hi>Children</hi> well, Ruling their <hi>Servants,</hi> and managing their neceſſary <hi>Affairs;</hi> the <hi>Wife</hi> li<g ref="char:EOLhyphen"/>ving in a quiet <hi>ſubjection</hi> to her <hi>Hus<g ref="char:EOLhyphen"/>band.</hi>
+            </p>
+            <pb n="28" facs="tcp:153921:18"/>
+            <p>
+               <hi>Maſters</hi> muſt be <hi>kind</hi> and <hi>juſt</hi> to their <hi>ſervants;</hi> inſtructing them in <hi>God's</hi> ſervice, as well as in their <hi>own;</hi> and <hi>ſervants</hi> muſt <hi>obey,</hi> and be <hi>faithful</hi> to their <hi>Maſters.</hi>
+            </p>
+            <p>All <hi>Superiors</hi> are to rule in <hi>Juſtice</hi> and <hi>Holineſs,</hi> ſeeking <hi>God's Glory,</hi> and the <hi>publick good:</hi> and all <hi>inferiors</hi> are to be <hi>ſubject</hi> to the <hi>higher powers,</hi> paying <hi>tribute,</hi> and <hi>obeying</hi> their <hi>juſt</hi> Lawes for <hi>Conſcience</hi> ſake, not reſiſt<g ref="char:EOLhyphen"/>ing, but to taking it <hi>Patiently,</hi> though they ſuffer <hi>wrongfully.</hi>
+            </p>
+            <p>
+               <hi>Miniſters</hi> muſt <hi>fced</hi> and <hi>rule,</hi> and <hi>watch</hi> over the Souls of their <hi>flocks,</hi> and their <hi>flocks</hi> muſt freely contribute to their <hi>maintenance, honour</hi> them in <hi>love,</hi> and be <hi>obedient</hi> to them.</p>
+            <p>
+               <hi>I</hi> muſt not <hi>take away</hi> anothers <hi>Life,</hi> nor <hi>hurt</hi> his <hi>Body,</hi> nor ſo much as be <hi>angry</hi> with him without a cauſe; but muſt <hi>preſerve,</hi> as much as in me lyeth, <hi>his bodily</hi> welfare, even as my <hi>own.</hi>
+            </p>
+            <pb n="29" facs="tcp:153921:18"/>
+            <p>I muſt not <hi>defile</hi> another's <hi>Wife,</hi> nor be guilty of <hi>Fornication,</hi> nor ſo much as <hi>look</hi> on any <hi>woman</hi> to <hi>luſt</hi> after her; but do all I can to preſerve the <hi>chaſtity</hi> of all.</p>
+            <p>I muſt not <hi>wrong</hi> another of any part of his <hi>Eſtate,</hi> by <hi>theft, robbery, fraud</hi> or <hi>deceit</hi> of any kind, but muſt ſecure <hi>his right,</hi> as much as <hi>my own,</hi> pay my <hi>debts</hi> duely, <hi>bargain</hi> honeſtly, and make <hi>reſtitution</hi> and <hi>amends</hi> for every <hi>wrong.</hi>
+            </p>
+            <p>I muſt not <hi>wrong</hi> another's good <hi>name</hi> or <hi>credit,</hi> by <hi>falſe-witneſs, ſlan<g ref="char:EOLhyphen"/>dering, falſe-accuſing, tale-bearing, reproaching, back-biting;</hi> but I muſt <hi>vindicate</hi> it as far as with <hi>truth</hi> I can; acknowledging all the <hi>good</hi> I ſee in eve<g ref="char:EOLhyphen"/>ry man, groundleſly <hi>ſuſpecting</hi> no man. I muſt not make or ſpeak any <hi>lye,</hi> but ſpeak the <hi>truth</hi> plainly.</p>
+            <p>I muſt utterly caſt off all <hi>ſelfiſhneſs,</hi> and not be tempted by any deſire of pleaſing my <hi>ſelf,</hi> to <hi>covet</hi> any thing that is another mans.</p>
+            <pb n="30" facs="tcp:153921:19"/>
+            <p>I muſt <hi>love, pray</hi> for, and do <hi>good</hi> to my <hi>enemies;</hi> not rendring <hi>evil</hi> for <hi>evil,</hi> or ſeeking <hi>revenge,</hi> but <hi>forgiv<g ref="char:EOLhyphen"/>ing,</hi> as <hi>God</hi> for <hi>Chriſt</hi> his ſake hath <hi>for<g ref="char:EOLhyphen"/>given</hi> me.</p>
+         </div>
+         <div type="text">
+            <pb n="31" facs="tcp:153921:19"/>
+            <head>The matter of our De<g ref="char:EOLhyphen"/>ſires and Prayers.</head>
+            <p>I AM not able <hi>naturally</hi> either to <hi>un<g ref="char:EOLhyphen"/>derſtand</hi> the myſteries of Faith, or to <hi>do</hi> the Spiritual duties, which I am bound as a Chriſtian, to believe and do. <hi>I</hi> muſt not therefore <hi>truſt</hi> to my ſelf, but by <hi>frequent, fervent</hi> and <hi>hum<g ref="char:EOLhyphen"/>ble Prayer</hi> apply my ſelf to <hi>God,</hi> in the <hi>name</hi> of <hi>Jeſus Chriſt,</hi> for the help of his <hi>Holy Spirit</hi> to <hi>quicken</hi> my <hi>dead<g ref="char:EOLhyphen"/>neſs, enlighten</hi> my <hi>ignorance,</hi> and <hi>ſtrengthen</hi> my <hi>weakneſs.</hi>
+            </p>
+            <p>Of my ſelf <hi>I</hi> know not <hi>how</hi> to pray, or for <hi>what</hi> to pray; <hi>I</hi> muſt therefore learn of <hi>Chriſt,</hi> who hath taught me <hi>thus</hi> to Pray,</p>
+            <p>
+               <hi>Our Father,</hi> &amp;c.</p>
+            <p>
+               <hi>I</hi> muſt with all <hi>Humility,</hi> as an <hi>un<g ref="char:EOLhyphen"/>done</hi> ſinner, approach unto <hi>God,</hi> in a
+<pb n="32" facs="tcp:153921:20"/>true ſenſe of <hi>his right</hi> in me, and <hi>domi<g ref="char:EOLhyphen"/>nion</hi> over me, as my <hi>Owner</hi> and <hi>Go<g ref="char:EOLhyphen"/>vernour,</hi> and of his <hi>love</hi> to me as my <hi>Father,</hi> ſo far <hi>reconciled</hi> unto all men in <hi>Jeſus Chriſt,</hi> that he <hi>pitieth</hi> us, and hath as a <hi>gracious Father,</hi> provided all things needful to make us <hi>happy,</hi> and that he delighteth not in our <hi>death,</hi> but would have us <hi>turn</hi> and <hi>live</hi> as <hi>his</hi> children, happy in our Father's <hi>love</hi> and <hi>providence.</hi>
+            </p>
+            <p>I muſt draw near unto <hi>him,</hi> as a <hi>pe<g ref="char:EOLhyphen"/>nitent, dutiful</hi> and <hi>loving child;</hi> hear<g ref="char:EOLhyphen"/>tily <hi>ſorry</hi> that ever I <hi>offended</hi> him, reſt<g ref="char:EOLhyphen"/>leſly <hi>longing</hi> to be <hi>reconciled</hi> unto him, reſolvedly <hi>willing</hi> to <hi>reſign</hi> and <hi>give</hi> my ſelf up unto him, to be <hi>governed</hi> wholly by him; ſtedfaſtly believing and <hi>truſting</hi> in his <hi>power</hi> to <hi>ſave</hi> and <hi>bleſs</hi> me, and his <hi>willingneſs</hi> to <hi>receive</hi> me for his <hi>own adopted child</hi> in <hi>Jeſus Chriſt.</hi>
+            </p>
+            <p>Yet <hi>I</hi> muſt remember the <hi>greatneſs</hi> of his <hi>Divine Majeſty,</hi> and the infi<g ref="char:EOLhyphen"/>nite <hi>diſtance</hi> betwixt a <hi>powerful, wiſe</hi>
+               <pb n="33" facs="tcp:153921:20"/>and <hi>good God</hi> in <hi>Heaven,</hi> and me a <hi>weak, fooliſh</hi> and <hi>ſinful</hi> worm of the <hi>Earth;</hi> and ſo come with all humble <hi>reverence,</hi> falling down at his feet in a devout <hi>Adoration</hi> of his <hi>Majeſty,</hi> long<g ref="char:EOLhyphen"/>ing to be made more <hi>Holy</hi> and <hi>Hea<g ref="char:EOLhyphen"/>venly,</hi> that I may be capable of a <hi>near<g ref="char:EOLhyphen"/>er Communion</hi> with him.</p>
+            <p>I muſt firſt heartily deſire, that all the World may give him the <hi>glory</hi> due unto his <hi>Name;</hi> That <hi>He</hi> may be more perfectedly <hi>known,</hi> and <hi>loved,</hi> and <hi>honoured</hi> by men; and that in his <hi>Perſon,</hi> his <hi>Name,</hi> his <hi>Attributes,</hi> his <hi>Word,</hi> his <hi>Day,</hi> his <hi>Ordinances,</hi> his <hi>Miniſters,</hi> and all his <hi>children.</hi> That he may be <hi>choſen,</hi> and <hi>Magnified</hi> as the <hi>ſupream</hi> good, have the <hi>chief</hi> place in our <hi>hearts</hi> and <hi>affections,</hi> and <hi>glori<g ref="char:EOLhyphen"/>fied</hi> in the World by our <hi>Godly lives.</hi>
+            </p>
+            <p>
+               <hi>I</hi> muſt next pray, that the <hi>Yoak</hi> of ſin may be <hi>broken</hi> off, and we freed from the <hi>Tyranny</hi> of <hi>Satan;</hi> that we
+<pb n="34" facs="tcp:153921:21"/>may joyfully <hi>own,</hi> and <hi>ſubmit</hi> to the <hi>authority</hi> of <hi>God.</hi> That Chriſt's <hi>Church</hi> may <hi>flouriſh</hi> and be <hi>enlarged</hi> on earth, and that the <hi>Civil Powers</hi> may <hi>cheriſh</hi> and <hi>protect</hi> it; that the <hi>Power</hi> and <hi>ma<g ref="char:EOLhyphen"/>lice</hi> of it's <hi>enemies</hi> may be <hi>reſtrained</hi> and <hi>fruſtrated;</hi> that <hi>Chriſt</hi> may <hi>rule</hi> by his <hi>Spirit</hi> in our <hi>hearts</hi> ſubduing our <hi>Corruptions</hi> and ruling us in the way of <hi>Godlineſs;</hi> that we may earneſtly <hi>long</hi> for, and diligently <hi>prepare</hi> for, and patiently <hi>wait</hi> for, and finally <hi>enter</hi> in<g ref="char:EOLhyphen"/>to God's <hi>Kingdome</hi> of <hi>glory.</hi>
+            </p>
+            <p>I muſt in the 3 d. place pray, That men may not make the <hi>will</hi> of the <hi>de<g ref="char:EOLhyphen"/>vil,</hi> the <hi>Cuſtoms</hi> of the <hi>world,</hi> or their own <hi>inclinations</hi> and <hi>appetites,</hi> but the <hi>will</hi> of <hi>God</hi> alone the <hi>rule</hi> of their <hi>lives.</hi> That we may all <hi>ſincerely</hi> obey his <hi>com<g ref="char:EOLhyphen"/>mands,</hi> and ſubmit to his <hi>wiſdome,</hi> and reſt in his <hi>government.</hi> That we may alwaies endeavour after the <hi>perfection</hi> of duty, and as the Holy <hi>Angels</hi> of <hi>Heaven, rejoyce</hi> and <hi>delight</hi> in an Ho<g ref="char:EOLhyphen"/>ly <hi>Obedience.</hi>
+            </p>
+            <pb n="35" facs="tcp:153921:21"/>
+            <p>My next petition is, That I may have all things needfull to <hi>preſerve this</hi> life, till I be fitted for a <hi>better.</hi> That we may have <hi>health</hi> and <hi>Strength</hi> to ſerve <hi>God,</hi> and other <hi>outward</hi> good things, as they are <hi>expedient;</hi> that we may be <hi>free</hi> from the <hi>temptations</hi> of <hi>ri<g ref="char:EOLhyphen"/>ches</hi> or <hi>poverty, contented</hi> with our <hi>pre<g ref="char:EOLhyphen"/>ſent</hi> portion; and <hi>wiſe</hi> to uſe it <hi>piouſly</hi> and <hi>Charitably.</hi> That God would proſ<g ref="char:EOLhyphen"/>per our <hi>honeſt</hi> labours, keep us from <hi>immoderate cares</hi> and <hi>deſires,</hi> from all <hi>idleneſs</hi> and <hi>intemperance.</hi>
+            </p>
+            <p>In the next place <hi>I</hi> pray, that <hi>God</hi> would grant us <hi>ſoft</hi> hearts, and <hi>repen<g ref="char:EOLhyphen"/>tance</hi> unto <hi>life,</hi> a perfect <hi>hatred</hi> of ſin, and <hi>power</hi> to <hi>leave</hi> it. That He would through <hi>Chriſt forgive</hi> all our ſins <hi>origi<g ref="char:EOLhyphen"/>nal</hi> and <hi>actual;</hi> and grant us <hi>grace</hi> in thankfulneſs to him to <hi>forgive</hi> all that offend <hi>us,</hi> and to return <hi>good</hi> for <hi>evil.</hi>
+            </p>
+            <p>Laſtly, That God would enable us to <hi>watch</hi> againſt, and manfully to <hi>reſiſt</hi> all <hi>temptations,</hi> that they may never prevail with us to do <hi>evil;</hi> that he
+<pb n="36" facs="tcp:153921:22"/>would <hi>fruſtrate</hi> all the malicious deſigns of the <hi>devil,</hi> and all our <hi>enemies,</hi> and <hi>protect</hi> us by his <hi>grace,</hi> that we may <hi>perſevere</hi> in <hi>obedience</hi> to our lives <hi>end.</hi>
+            </p>
+            <p>
+               <hi>I conclude</hi> my Prayers with aſcri<g ref="char:EOLhyphen"/>bing unto <hi>God</hi> the <hi>honour</hi> of all his works, acknowledging his <hi>Dominion</hi> and <hi>Soveraignty</hi> over <hi>all,</hi> and my ſelf <hi>happy</hi> in being his <hi>Subject;</hi> his infinite <hi>power,</hi> and my ſelf <hi>happy</hi> in being un<g ref="char:EOLhyphen"/>der his <hi>protection; I</hi> acknowledge all things to be <hi>from</hi> him, our total de<g ref="char:EOLhyphen"/>pendance to be <hi>upon</hi> him, and that the glory of all goodneſs is due <hi>unto</hi> him. I deſire this may by all the World be acknowledged for evermore; And with all hearty <hi>deſire,</hi> and filial <hi>confi<g ref="char:EOLhyphen"/>dence,</hi> to all <hi>this I ſay, Amen;</hi> So be it.</p>
+         </div>
+         <div type="text">
+            <pb n="37" facs="tcp:153921:22"/>
+            <head>The Sacrament of the Lord's Supper.</head>
+            <p>CHriſt Jeſus hath inſtituted the night before he was betrayed a ſolemn <hi>Sacrament,</hi> and Chriſtian <hi>Feaſt,</hi> to be celebrated by Chriſtians, even till his <hi>coming again,</hi> in <hi>remembrance</hi> of him.</p>
+            <p>The outward <hi>matter</hi> to be received, is <hi>Bread</hi> and <hi>Wine,</hi> ſignifying the <hi>Body</hi> and <hi>Blood</hi> of <hi>Chriſt,</hi> as the <hi>food</hi> and <hi>refreſhment</hi> of our <hi>Souls.</hi>
+            </p>
+            <p>The <hi>Bread</hi> is <hi>Bleſſed-broken,</hi> and <hi>given</hi> to be <hi>received</hi> and <hi>eaten</hi> by us; The <hi>Wine</hi> likewiſe <hi>Bleſſed, poured out</hi> and <hi>given</hi> to be <hi>received</hi> and <hi>drunk</hi> by us; to ſignifie that <hi>Chriſt</hi> was <hi>Conſecra<g ref="char:EOLhyphen"/>ted</hi> and <hi>Crucified,</hi> his <hi>body wounded,</hi> his <hi>blood ſhed</hi> for our ſins, and that he <hi>giveth</hi> himſelf <hi>Crucified</hi> to be <hi>received</hi>
+               <pb n="38" facs="tcp:153921:23"/>and <hi>believed</hi> on as our Spiritual <hi>nouriſh<g ref="char:EOLhyphen"/>ment</hi> and <hi>comfort.</hi>
+            </p>
+            <p>All that <hi>preparedly</hi> receive the <hi>Bread</hi> and <hi>Wine,</hi> do with it <hi>really</hi> receive <hi>Chriſt Crucified;</hi> and with <hi>him</hi> the <hi>par<g ref="char:EOLhyphen"/>don</hi> of their ſins, and <hi>Aſſurance</hi> of Eternal Life, <hi>ſcaled</hi> a new unto them in this <hi>Sacrament</hi> for the <hi>confirming</hi> of their <hi>Faith,</hi> and <hi>growth</hi> in <hi>Grace.</hi>
+            </p>
+            <p>We <hi>joyn</hi> in the celebration of this <hi>Feaſt</hi> to ſignifie, that <hi>we</hi> though <hi>many,</hi> are yet <hi>Members</hi> of <hi>one Body,</hi> the <hi>Church,</hi> joyned unto one <hi>Head, Jeſus Chriſt,</hi> whoſe <hi>Death</hi> and <hi>Sacrifice</hi> we unanimouſly <hi>commemorate,</hi> with all <hi>thankfulneſs;</hi> Profeſſing that we all own the ſame <hi>Lord,</hi> the ſame <hi>Faith,</hi> the ſame <hi>Laws,</hi> and are to live in <hi>love, peace</hi> and <hi>holineſs,</hi> as the <hi>Members</hi> of the <hi>ſame body.</hi>
+            </p>
+            <p>He that <hi>Communicateth</hi> in this Sacra<g ref="char:EOLhyphen"/>ment <hi>unworthily,</hi> is accounted by <hi>God,</hi> as <hi>guilty</hi> of the <hi>Body</hi> and <hi>Blood</hi> of <hi>Chriſt.</hi>
+            </p>
+            <p>That we may avoid this <hi>guilt,</hi> we
+<pb n="39" facs="tcp:153921:23"/>muſt <hi>examine</hi> our ſelves, whether we <hi>diſcern</hi> the <hi>Lord's Body,</hi> and <hi>under<g ref="char:EOLhyphen"/>ſtand</hi> what he <hi>gives</hi> there unto us, and what we there come <hi>to do.</hi>
+            </p>
+            <p>We are alſo to <hi>examine,</hi> how we keep our <hi>Baptiſmal Covenant</hi> of <hi>Repen<g ref="char:EOLhyphen"/>tance, Faith</hi> and <hi>New Obedience,</hi> and if we find our ſelves truly <hi>thankful</hi> for the Bleſſing of our <hi>Redemption,</hi> by <hi>Je<g ref="char:EOLhyphen"/>ſus Chriſt.</hi>
+            </p>
+            <p>If we find our ſelves <hi>ſincere Chriſti<g ref="char:EOLhyphen"/>ans,</hi> reſolving to keep <hi>Covenant</hi> with <hi>God,</hi> we are there to <hi>renew</hi> our <hi>Cove<g ref="char:EOLhyphen"/>nant</hi> moſt ſeriouſly, <hi>praiſing God</hi> in <hi>Chriſt</hi> for this ineſtimable <hi>priviledge, rejoycing</hi> in his <hi>Salvation,</hi> and ſo go our way, and ſin no more.</p>
+         </div>
+         <div type="text">
+            <pb n="40" facs="tcp:153921:24"/>
+            <head>Some Texts of Scripture often and ſeriouſly to be Read, and thought on.</head>
+            <p>IT is appointed unto men once to <hi>dye,</hi> but after this the Judgment. <hi>Heb.</hi> 9.27.</p>
+            <p>Go to now, ye that ſay, to day or to morrow, we will go into ſuch a Ci<g ref="char:EOLhyphen"/>ty, and continue there a year, and buy and ſell, and get gain; whereas you know not what ſhall be on the mor<g ref="char:EOLhyphen"/>row; For what is your Life? it is even a vapour that appeareth for a lit<g ref="char:EOLhyphen"/>tle time, and then vaniſheth away. <hi>Jam.</hi> 4.13, 14.</p>
+            <p>Behold <hi>now</hi> is the accepted time; behold now is the day of Salvation. 2 <hi>Cor.</hi> 6.2.</p>
+            <pb n="41" facs="tcp:153921:24"/>
+            <p>To day if ye will hear his voice, harden not your hearts. <hi>Heb.</hi> 4.7.</p>
+            <p>Remember now thy Creatour in the dayes of thy youth. <hi>Eccleſiaſtes</hi> 12.1.</p>
+            <p>We muſt all appear before the judg<g ref="char:EOLhyphen"/>ment ſeat of Chriſt, that every one may receive the things done in his bo<g ref="char:EOLhyphen"/>dy, according to that he hath done, whether it be good or bad. 2 <hi>Cor.</hi> 5.10.</p>
+            <p>Knowing therefore the terror of the Lord, we perſwade men. 2 <hi>Cor.</hi> 5.11.</p>
+            <p>If you call on the Father, who without reſpect of perſons judgeth according to every man's work, paſs the time of your ſojourning here in fear. 1 <hi>Pet.</hi> 1.17.</p>
+            <p>God will render to every man ac<g ref="char:EOLhyphen"/>cording to his deeds: to them who by patient continuance in well-doing, ſeek for glory, honour and immortali<g ref="char:EOLhyphen"/>ty; <hi>Eternal Life:</hi> But unto them that are contentious, and do not obey
+<pb n="42" facs="tcp:153921:25"/>the truth, but obey unrighteouſneſs, indignation and wrath. <hi>Romans</hi> 2.6, 7, 8.</p>
+            <p>Work out your own Salvation with fear and trembling. <hi>Phil.</hi> 2.12.</p>
+            <p>Give diligence to make your calling and election ſure. 2 <hi>Pet.</hi> 1.10.</p>
+            <p>The heart of this people is waxed groſs, and their ears are dull of hear<g ref="char:EOLhyphen"/>ing, and their eyes have they cloſed, leaſt they ſhould ſee with their eyes, and hear with their ears, and under<g ref="char:EOLhyphen"/>ſtand with their heart, and ſhould be converted, and I ſhould heal them. <hi>Act.</hi> 28.27.</p>
+            <p>Save your ſelves from this untoward Generation. <hi>Act.</hi> 2.40.</p>
+            <p>Repent ye therefore, and be con<g ref="char:EOLhyphen"/>verted, that your ſins may be blotted out. <hi>Act.</hi> 3.19.</p>
+            <p>Except ye be converted, and be<g ref="char:EOLhyphen"/>come as little children, ye ſhall not en<g ref="char:EOLhyphen"/>ter into the Kingdom of Heaven. <hi>Matthew</hi> 18.3.</p>
+            <pb n="43" facs="tcp:153921:25"/>
+            <p>Except ye repent, ye ſhall all like<g ref="char:EOLhyphen"/>wiſe periſh. <hi>Luk.</hi> 13.3, 5.</p>
+            <p>Except a man be born again, he cannot ſee the Kingdom of God. <hi>Joh.</hi> 3.3.</p>
+            <p>Follow peace with all men, and ho<g ref="char:EOLhyphen"/>lineſs, without which no man ſhall ſee the Lord. <hi>Heb.</hi> 12.14.</p>
+            <p>Neither is there Salvation in any other, <hi>[but Chriſt:]</hi> for there is none other name under Heaven given among men, whereby we muſt be ſaved. <hi>Act.</hi> 4.12.</p>
+            <p>He that believeth on him is not con<g ref="char:EOLhyphen"/>lemned, but he that believeth not is condemned already. <hi>Joh.</hi> 3.18.</p>
+            <p>There is no condemnation to them <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>at are in Chriſt Jeſus, who walk not <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fter the fleſh, but after the Spirit. <hi>
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>om.</hi> 8.1.</p>
+            <p>To be carnally minded is death, <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t to be ſpiritually minded is Life and <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eace. <hi>Ver.</hi> 6. If ye live after the <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſh ye ſhall dye: but if ye by the <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pirit do mortifie the deeds of the
+<pb n="44" facs="tcp:153921:26"/>Body, ye ſhall live. <hi>Ver.</hi> 13.</p>
+            <p>Now the works of the Fleſh are manifeſt, which are theſe, Adulte<g ref="char:EOLhyphen"/>ries, Fornication, Uncleanneſs, Laſ<g ref="char:EOLhyphen"/>civiouſneſs, Idolatry, Witchcraft, Ha<g ref="char:EOLhyphen"/>tred, Variance, Emulations, Wrath, Strife, Seditions, Hereſies, Envyings, Murders, Drunkenneſs; Revellings, and ſuch like; — They which do ſuch things ſhall not inherit the King<g ref="char:EOLhyphen"/>dom of God. <hi>Gal.</hi> 5.19. &amp;c.</p>
+            <p>If any man have not the Spirit of Chriſt, he is none of his. <hi>Romans</hi> 8.9.</p>
+            <p>If any man be in Chriſt he is a new creature. 2 <hi>Cor.</hi> 5.17.</p>
+            <p>They that are Chriſt's have Crucifi<g ref="char:EOLhyphen"/>ed the Fleſh, with the affections and luſts. <hi>Gal.</hi> 5.</p>
+            <p>Love not the world, nor the things that are in the world: For if any man love the world, the love of the Fa<g ref="char:EOLhyphen"/>ther is not in him.</p>
+            <p>Whatſoever is born of God, over<g ref="char:EOLhyphen"/>cometh the world. 1 <hi>Joh.</hi> 5.4.</p>
+            <pb n="45" facs="tcp:153921:26"/>
+            <p>Let him that nameth the name of Chriſt, depart from iniquity. 2 <hi>Tim.</hi> 11.19.</p>
+            <p>By this the children of God are manifeſt, and the children of the De<g ref="char:EOLhyphen"/>vil; whoſoever doth not Righteouſ<g ref="char:EOLhyphen"/>neſs is not of God, neither he that loveth not his brother; 1 <hi>Joh.</hi>
+            </p>
+            <p>Let us walk honeſtly as in the day, not in rioting and drunkenneſs, not in chambering and wantonneſs, not in ſtrife and envying: But put ye on the Lord Jeſus Chriſt, and make no pro<g ref="char:EOLhyphen"/>viſion for the Fleſh, to fulfil the luſts thereof. <hi>Rom.</hi> 13.13, 14.</p>
+            <p>If any man come to me, and hate not his Father and Mother, and Wife and Children, and Brethren and Si<g ref="char:EOLhyphen"/>ſters, yea and his own life alſo, he cannot be my Diſciple. <hi>Luk.</hi> 14.26.</p>
+            <p>If any man will come after me, let him deny himſelf, and take up his Croſs, and follow me. <hi>Matthew</hi> 16.24.</p>
+            <pb n="46" facs="tcp:153921:27"/>
+            <p>For what is a man profited, if he ſhall gain the whole world, and loſe his own Soul? Or what ſhall a man give in Exchange for his Soul? <hi>Ver.</hi> 26.</p>
+            <p>The Grace of God which bringeth Salvation, hath appeared to all men, teaching us, that denying ungodlineſs and worldly luſts, we ſhould live ſo<g ref="char:EOLhyphen"/>berly, Righteouſly and Godly in this preſent world: Looking for that bleſ<g ref="char:EOLhyphen"/>ſed hope, and the Glorious appearance of the great God, and our Saviour Je<g ref="char:EOLhyphen"/>ſus Chriſt, who gave himſelf for us, that he might redeem us from all ini<g ref="char:EOLhyphen"/>quity, and purifie to himſelf a pecu<g ref="char:EOLhyphen"/>liar people, zealous of good works. <hi>Tit.</hi> 2.11, 12. &amp;c.</p>
+            <p>Ye are all the children of the light, and the children of the day: we are not of the night, nor of darkneſs; Therefore let us not ſleep, as do others; but let us watch and be ſober. 1 <hi>Theſ.</hi> 5.5, 6.</p>
+            <pb n="47" facs="tcp:153921:27"/>
+            <p>How ſhall we eſcape, if we neglect ſo great Salvation. <hi>Hebrews</hi> 2.3.</p>
+            <p>If the Righteous ſcarcely be ſaved, where ſhall the ungodly, and the fin<g ref="char:EOLhyphen"/>ner appear? 1 <hi>Pet.</hi> 4.18.</p>
+         </div>
+         <div type="text">
+            <pb n="48" facs="tcp:153921:28"/>
+            <head>The Tryal of a Chriſti<g ref="char:EOLhyphen"/>an's State.</head>
+            <p>IT highly concerns me to examine and try, whether I be in a <hi>State</hi> of <hi>Sin,</hi> or in a <hi>State</hi> of <hi>Grace:</hi> that if I be in the <hi>former,</hi> I may haſten <hi>out</hi> of it, to eſcape <hi>damnation;</hi> and if in the <hi>later,</hi> I may bleſs <hi>God</hi> for his <hi>goodneſs,</hi> and go on to <hi>Salvation.</hi>
+            </p>
+            <div type="part">
+               <head>Now thus I muſt try my ſelf.</head>
+               <p>If I <hi>underſtand</hi> ſo much of <hi>GOD,</hi> as that I do really <hi>eſteem</hi> and <hi>value Him,</hi> his <hi>grace</hi> and <hi>love</hi> above all the <hi>world,</hi> and am heartily <hi>willing</hi> to take <hi>Him</hi> alone for my <hi>portion,</hi> counting <hi>him enough,</hi> though for <hi>him</hi> I ſhould loſe all the <hi>world</hi> beſides: If my <hi>care</hi> and <hi>delight</hi> be to do his <hi>Will,</hi> and my chief
+<pb n="49" facs="tcp:153921:28"/>
+                  <hi>rejoycing</hi> be in his <hi>love,</hi> and my heart's <hi>deſire</hi> and <hi>longing</hi> be to <hi>enjoy</hi> him more fully in <hi>Heaven.</hi>
+               </p>
+               <p>If to this end I apply my ſelf to <hi>Je<g ref="char:EOLhyphen"/>ſus Chriſt,</hi> truſting in <hi>him</hi> alone for <hi>Eternal Life</hi> in the preſence of <hi>God,</hi> and giving my ſelf intirely to be <hi>govern<g ref="char:EOLhyphen"/>ed</hi> by him, willing to <hi>obey</hi> his <hi>Laws,</hi> whatſoever it ſhall <hi>coſt</hi> me, though it be with the <hi>loſs</hi> of all worldly <hi>advan<g ref="char:EOLhyphen"/>tages,</hi> and earthly <hi>pleaſures,</hi> and even <hi>Life</hi> it ſelf; If I can for his ſake love <hi>enemies,</hi> bear <hi>wrongs,</hi> forbear <hi>revenge,</hi> mortifie <hi>luſts</hi> and <hi>paſſions,</hi> bridle my <hi>appetite,</hi> diſregard my <hi>own will</hi> and <hi>pleaſure,</hi> endure <hi>ſhame</hi> and <hi>reproach,</hi> loſe <hi>wealth, friends and liberty,</hi> yea and life too.</p>
+               <p>If <hi>I watch</hi> as narrowly over my <hi>heart, affections</hi> and <hi>thoughts,</hi> as over my <hi>outward</hi> actions; and earneſtly <hi>de<g ref="char:EOLhyphen"/>ſire</hi> more than any worldly treaſure, to be throughly <hi>renewed</hi> and <hi>cleanſed</hi> by the <hi>Holy Spirit,</hi> from all <hi>inward</hi> corruptions. If <hi>I hate</hi> every <hi>ſin</hi> in
+<pb n="50" facs="tcp:153921:29"/>my ſelf, and <hi>ſtrive</hi> all <hi>I</hi> can againſt it, and am <hi>reſtleſs</hi> till <hi>I conquer</hi> it, and <hi>troubled</hi> at my heart at my own <hi>imper<g ref="char:EOLhyphen"/>fections, longing</hi> to be freed from them.</p>
+               <p>If <hi>I</hi> really <hi>delight,</hi> and find <hi>pleaſure</hi> in the <hi>worſhip</hi> and <hi>ſervice</hi> of <hi>God,</hi> and do not come <hi>forcedly</hi> and <hi>conſtrainedly</hi> to it, as rather <hi>willing</hi> to do otherwiſe if <hi>I durſt,</hi> if <hi>I</hi> find <hi>holineſs</hi> and <hi>obedi<g ref="char:EOLhyphen"/>ence ſweet</hi> and <hi>pleaſant,</hi> and no <hi>burden</hi> or <hi>weariſomneſs</hi> to me; If <hi>I</hi> can, and do heartily <hi>reſign</hi> my <hi>ſelf</hi> to <hi>God,</hi> not minding what <hi>I naturally</hi> would <hi>have</hi> or <hi>do,</hi> nor what any thing elſe would <hi>perſwade</hi> me to, but meerly what is the <hi>will</hi> of <hi>God,</hi> and going on cheer<g ref="char:EOLhyphen"/>fully to do <hi>his will, pray</hi> fervently for his aſſiſtance, and <hi>caſt</hi> my ſelf confi<g ref="char:EOLhyphen"/>dently on his <hi>mercy,</hi> through <hi>Jeſus Chriſt</hi> for <hi>Salvation.</hi>
+               </p>
+               <p>If <hi>I</hi> find this in my ſelf, my ſtate is comfortable and good.</p>
+            </div>
+            <div type="part">
+               <pb n="51" facs="tcp:153921:29"/>
+               <head>But on the contrary.</head>
+               <p>If <hi>I</hi> yet love this <hi>world,</hi> and mind <hi>Earthly</hi> things <hi>moſt,</hi> and prefer not <hi>God,</hi> his <hi>grace</hi> and <hi>Heaven,</hi> before all earthly <hi>joyes</hi> and <hi>pleaſures.</hi>
+               </p>
+               <p>If <hi>I</hi> dare not <hi>truſt</hi> in Chriſt <hi>alone,</hi> nor <hi>forſake</hi> all for <hi>him,</hi> nor am willing to obey his <hi>Lawes,</hi> how hard ſoever they ſeem, or what coſt or loſs ſoever they put me to.</p>
+               <p>If my <hi>heart</hi> and <hi>life</hi> be not through<g ref="char:EOLhyphen"/>ly <hi>changed,</hi> but <hi>I</hi> yet muſt have my <hi>own will,</hi> and <hi>pleaſe</hi> my <hi>own appetite</hi> and <hi>ſenſes,</hi> and cannot want my own <hi>deſires,</hi> or croſs my own <hi>inclinations.</hi>
+               </p>
+               <p>If <hi>I</hi> keep any known ſin <hi>unmortified,</hi> and not <hi>caſt</hi> off, if <hi>I</hi> do not <hi>watch</hi> a<g ref="char:EOLhyphen"/>gainſt all <hi>temptations,</hi> and <hi>pray</hi> heartily and frequently for <hi>grace</hi> to <hi>conquer</hi> all ſin.</p>
+               <p>If I <hi>delight</hi> not in God's <hi>Word,</hi> and in all <hi>Holy duties,</hi> and eſteem it not my greateſt <hi>priviledge</hi> to <hi>ſerve</hi> him.</p>
+               <pb n="52" facs="tcp:153921:30"/>
+               <p>If my greateſt <hi>care</hi> be not to <hi>pleaſe him,</hi> and if <hi>his</hi> command prevail not more with me than all the world be<g ref="char:EOLhyphen"/>ſides.</p>
+               <p>If I cannot <hi>content</hi> my ſelf with <hi>him alone,</hi> nor ſuffer any the <hi>greateſt</hi> evil for him.</p>
+               <p>If I have not reſolvedly given <hi>my ſelf</hi> up to be wholly at his <hi>diſpoſal,</hi> and to be made in all things conforma<g ref="char:EOLhyphen"/>ble to his will.</p>
+               <p>If the caſe be thus with me, I am in a ſtate of ſin and death, and cannot be ſaved, till I be converted and made a new man.</p>
+            </div>
+         </div>
+         <div type="text">
+            <pb n="53" facs="tcp:153921:30"/>
+            <head>The Chriſtian's Confeſſion of his Faith, with a full Reſignation of him<g ref="char:EOLhyphen"/>ſelf to God, and bind<g ref="char:EOLhyphen"/>ing himſelf in Cove<g ref="char:EOLhyphen"/>nant with GOD.</head>
+            <p>I <hi>Believe, Lord</hi> help thou my <hi>unbe<g ref="char:EOLhyphen"/>lief.</hi> I do moſt <hi>freely</hi> and <hi>heartily</hi> own, and with humble <hi>admiration</hi> and <hi>reverence,</hi> I do <hi>adore</hi> the <hi>great</hi> and <hi>dreadful,</hi> and <hi>incomprehenſibly Glorious Majeſty</hi> of Heaven and Earth. Moſt joyfully do I <hi>accept</hi> of <hi>thee, O Father, Son</hi> and <hi>Holy Ghoſt,</hi> for my <hi>only God. Thou,</hi> and thou <hi>alone</hi> art the inexhau<g ref="char:EOLhyphen"/>ſtible Fountain of all <hi>Being, Life, Pow<g ref="char:EOLhyphen"/>er</hi> and <hi>Goodneſs.</hi> I acknowledge my
+<pb n="54" facs="tcp:153921:31"/>total <hi>dependance</hi> upon <hi>thee</hi> for my <hi>Be<g ref="char:EOLhyphen"/>ing, Life, Motion, <g ref="char:V">Ʋ</g>nderſtanding,</hi> and <hi>all</hi> things; and it will be my <hi>hap<g ref="char:EOLhyphen"/>pineſs</hi> to <hi>enjoy</hi> thy <hi>love</hi> and <hi>bleſſing.</hi>
+            </p>
+            <p>Thou O <hi>God,</hi> art an <hi>Infinite, Eter<g ref="char:EOLhyphen"/>nal</hi> and <hi>Immortal Spirit,</hi> and the <hi>God</hi> and <hi>Father</hi> of <hi>Spirits,</hi> who though <hi>unſeen,</hi> art every where <hi>preſent, about</hi> me, and <hi>within</hi> me; by thy infinite <hi>power, quickning, upholding,</hi> and pro<g ref="char:EOLhyphen"/>tecting me; by thine Infinite Wiſdom providing for me, ordering and di<g ref="char:EOLhyphen"/>recting me; and by thy goodneſs bleſ<g ref="char:EOLhyphen"/>ſing me.</p>
+            <p>To thee, <hi>one</hi> Glorious <hi>God</hi> in <hi>Three Perſons,</hi> Bleſſed for ever, do I <hi>freely</hi> and <hi>wholly</hi> give my ſelf, cheerfully <hi>de<g ref="char:EOLhyphen"/>dicating</hi> and <hi>reſigning</hi> my <hi>Soul</hi> and <hi>Bo<g ref="char:EOLhyphen"/>dy,</hi> with all the <hi>powers</hi> and <hi>faculties</hi> of both, to be wholly <hi>diſpoſed</hi> of by <hi>thee,</hi> in the ſervice of thee, O Bleſſed <hi>Tri<g ref="char:EOLhyphen"/>nity</hi> in <hi>
+                  <g ref="char:V">Ʋ</g>nity,</hi> Eternal <hi>Life, Light</hi> and <hi>Love, Power, Wiſdom</hi> and <hi>Holi<g ref="char:EOLhyphen"/>neſs,</hi> the Author of my <hi>preſervation,
+<pb n="55" facs="tcp:153921:31"/>Sanctification</hi> and <hi>Salvation.</hi>
+            </p>
+            <p>Thou in a wonder of condeſcending love, offereſt thy ſelf as a gracious Father, in Jeſus Chriſt to all Believ<g ref="char:EOLhyphen"/>ers.</p>
+            <p>Thou art the <hi>Maker</hi> of me, and all the World; I <hi>am</hi> nothing, I <hi>have</hi> no<g ref="char:EOLhyphen"/>thing, I <hi>can do</hi> nothing, I <hi>hope</hi> for no<g ref="char:EOLhyphen"/>thing but from thy <hi>power, wiſdom</hi> and <hi>goodneſs;</hi> to thee <hi>alone</hi> be the <hi>honour</hi> and <hi>praiſe</hi> of all. I will more ſtudy <hi>my ſelf,</hi> and other <hi>creatures,</hi> that I may learn to <hi>know, admire</hi> and <hi>love</hi> thee more. I can be <hi>proud</hi> of nothing, <hi>glory</hi> in nothing but in <hi>thee,</hi> in whom I <hi>live,</hi> and <hi>move,</hi> and have my <hi>being.</hi> I am not my <hi>own,</hi> I and all things are <hi>thine,</hi> and unto <hi>thee</hi> I freely <hi>reſign</hi> my ſelf, and all my concerns, to <hi>uſe</hi> and <hi>diſpoſe</hi> of <hi>me</hi> and <hi>them</hi> as it pleaſeth thee. Whatever thou doſt with me, thou canſt do me no <hi>wrong,</hi> no creature without thee can do me any <hi>good.</hi> 'Tis my <hi>perfection</hi> and <hi>happineſs</hi> to <hi>know</hi> and <hi>love</hi> thee, and <hi>delight</hi> in thee; <hi>Thee</hi>
+               <pb n="56" facs="tcp:153921:32"/>alone I <hi>chuſe</hi> for my <hi>portion,</hi> and <hi>thou</hi> alone ſhalt ever be <hi>enough</hi> for me.</p>
+            <p>To thee, as the <hi>Almighty Ruler</hi> of the World, I heartily <hi>ſubmit</hi> my ſelf; accepting <hi>thy</hi> Divine <hi>Will,</hi> for my <hi>only Law,</hi> by which my <hi>thoughts, words</hi> and <hi>actions</hi> are to be all <hi>governed.</hi> All thy <hi>Lawes</hi> I <hi>conſent</hi> to, as moſt <hi>holy, juſt</hi> and <hi>good,</hi> and moſt thankfully acknow<g ref="char:EOLhyphen"/>ledge that nothing can be <hi>better</hi> than to <hi>reſt</hi> in <hi>thy</hi> will: I will <hi>ſtudy</hi> thy <hi>will</hi> diligently, <hi>do</hi> it heartily, <hi>cheerfully ſubmit</hi> unto it, be well <hi>contented</hi> with, and joyfully <hi>praiſe</hi> thee in whatſoever <hi>thou</hi> doeſt. I will readily <hi>obey</hi> thy <hi>com<g ref="char:EOLhyphen"/>mands,</hi> patiently <hi>bear</hi> thy <hi>chaſtiſements,</hi> and wholly <hi>confide</hi> in thy <hi>bleſſing</hi> and <hi>protection.</hi>
+            </p>
+            <p>I confeſs <hi>Lord,</hi> that I am born a <hi>cor<g ref="char:EOLhyphen"/>rupt</hi> thing, and have added a thouſand times more to that <hi>corruption;</hi> I am fallen from that <hi>knowledge, power</hi> and <hi>uprightneſs,</hi> wherein thou madeſt <hi>Adam,</hi> and am exceeding <hi>ignorant, weak</hi> and <hi>wicked,</hi> averſe from <hi>truth</hi> and
+<pb n="57" facs="tcp:153921:32"/>
+               <hi>goodneſs,</hi> inclined mightily to <hi>falſhood</hi> and <hi>evil;</hi> all this I ſadly <hi>feel</hi> in my ſelf, it is an heavy <hi>burden</hi> unto me.</p>
+            <p>Except I be <hi>born again</hi> of thy <hi>Spirit,</hi> be <hi>converted</hi> by thy <hi>word,</hi> made a <hi>new man,</hi> and a real <hi>change</hi> wrought both in my <hi>heart</hi> and <hi>life,</hi> I muſt remain under thy <hi>wrath</hi> and <hi>curſe,</hi> Everlaſt<g ref="char:EOLhyphen"/>ingly <hi>wretched.</hi> Our miſery lying in our fall from <hi>thee</hi> our <hi>Creator,</hi> to the <hi>creature,</hi> and in our deſire to <hi>pleaſe our ſelves</hi> more than <hi>thee our God;</hi> our due <hi>portion</hi> is to periſh by our own wretched <hi>choice,</hi> and having choſen to <hi>ſin</hi> with <hi>devils,</hi> 'tis but juſt we <hi>ſhare</hi> with <hi>devils</hi> in Everlaſting torments. Having wilfully <hi>broken</hi> thy Laws, we cannot hope for <hi>impunity</hi> from thee, the <hi>juſt Governour</hi> of the World, ex<g ref="char:EOLhyphen"/>cept ſome <hi>ſatisfaction</hi> be made unto thy <hi>Juſtice.</hi>
+            </p>
+            <p>O the wonder, even <hi>raviſhing</hi> and <hi>aſtoniſhing</hi> wonder of thy rich <hi>mercy!</hi> How ſhould I ever be able to acknow<g ref="char:EOLhyphen"/>edge thy unſpeakable goodneſs in thy
+<pb n="58" facs="tcp:153921:33"/>compaſſion to ſinful men? <hi>Early</hi> and <hi>freely</hi> didſt thou <hi>promiſe</hi> us a <hi>Redeemer</hi> and a <hi>Saviour;</hi> and I do very <hi>feeling<g ref="char:EOLhyphen"/>ly</hi> own thy <hi>faithfulneſs</hi> and <hi>truth</hi> in <hi>performing</hi> to the full that gracious <hi>pro<g ref="char:EOLhyphen"/>miſe.</hi> How do I <hi>admire</hi> and <hi>adore</hi> thy wonderful <hi>wiſdom,</hi> in the rare contri<g ref="char:EOLhyphen"/>vance of our <hi>reſcue,</hi> by ſending thine <hi>own Eternal,</hi> and <hi>only begotten Son,</hi> to tender himſelf unto us for a <hi>Saviour,</hi> and make us <hi>new</hi> and <hi>eaſie</hi> termes of <hi>peace</hi> and <hi>reconciliation.</hi>
+            </p>
+            <p>Lord, on the bended knees of my Soul I do <hi>accept</hi> thy mercy, offering thy ſelf again unto me as a <hi>reconciled Father,</hi> deſiring to <hi>love, honour</hi> and <hi>obey</hi> thee for ever, and humbly be<g ref="char:EOLhyphen"/>ſeeching thee to <hi>own</hi> me amongſt thy <hi>adopted children.</hi>
+            </p>
+            <p>I do humbly <hi>admire,</hi> and joyfully <hi>imbrace</hi> thine infinite <hi>love,</hi> O <hi>bleſſed</hi> JESUS, who being the great <hi>God bleſ<g ref="char:EOLhyphen"/>ſed for ever,</hi> yet <hi>humbledſt</hi> thy ſelf to be <hi>cloathed</hi> in our weak and frail <hi>na<g ref="char:EOLhyphen"/>ture,</hi> to be <hi>born of a woman, made un<g ref="char:EOLhyphen"/>der
+<pb n="59" facs="tcp:153921:33"/>the Law,</hi> to live a <hi>mean</hi> life in a <hi>wicked</hi> world, to expoſe thy ſelf to the temptations of <hi>Satan,</hi> to <hi>ſuffer</hi> all <hi>indignities</hi> from ſinners, to <hi>ſhed</hi> thy precious <hi>blood</hi> upon a <hi>curſed</hi> tree, and lie in a <hi>grave,</hi> and undergo the condi<g ref="char:EOLhyphen"/>tion of the <hi>dead</hi> for us <hi>ſinful</hi> wret<g ref="char:EOLhyphen"/>ches.</p>
+            <p>Lord I am fully ſatisfied by thy <hi>ri<g ref="char:EOLhyphen"/>ſing again</hi> to life the <hi>third</hi> day, that thou haſt <hi>overcome</hi> the <hi>devil</hi> and <hi>death,</hi> and given <hi>ſatisfaction</hi> to thy <hi>Father's</hi> Juſtice, and <hi>finiſhed</hi> the great work of our <hi>Redemption.</hi> I know thou art now <hi>triumphant</hi> in <hi>Heaven,</hi> inveſted with all <hi>power</hi> and <hi>glory</hi> on the <hi>Right-hand</hi> of thy <hi>Father,</hi> our prevailing <hi>advo<g ref="char:EOLhyphen"/>cate</hi> making <hi>interceſſion</hi> for us: and thee I comfortably expect to be our <hi>Judge</hi> at the laſt day.</p>
+            <p>Thou O <hi>Glorious</hi> Jeſus haſt Eſta<g ref="char:EOLhyphen"/>bliſhed an Everlaſting <hi>Covenant</hi> of peace, and <hi>ſealed</hi> it with thy <hi>blood:</hi> and with all my Soul I praiſe thee for this thine ineſtimable <hi>love,</hi> not doubt<g ref="char:EOLhyphen"/>ing
+<pb n="60" facs="tcp:153921:34"/>keeping of that <hi>pardon</hi> and <hi>grace,</hi> and <hi>glory</hi> which thou therein haſt aſſured unto us, if I unfeignedly <hi>accept</hi> of thy <hi>mercy,</hi> and <hi>enter</hi> in this Holy <hi>Covenant.</hi>
+            </p>
+            <p>O JESUS CHRIST, in all <hi>ſincerity</hi> of heart, and with all thankful <hi>love</hi> and <hi>joy</hi> I do <hi>accept</hi> of <hi>thee</hi> my <hi>only Sa<g ref="char:EOLhyphen"/>viour.</hi> I do moſt humbly <hi>ſubmit</hi> my ſelf to be <hi>taught</hi> by thee, and will make thy <hi>Goſpel</hi> my dayly <hi>ſtudy:</hi> I <hi>truſt</hi> in thy <hi>merits</hi> only, and give my ſelf to be <hi>governed</hi> by thy <hi>Laws,</hi> and <hi>denying my ſelf</hi> I am ready to take up thy <hi>Croſs,</hi> and bid open <hi>War</hi> to all thine <hi>enemies,</hi> and take thy <hi>eaſie Yoke</hi> and <hi>light burden</hi> upon me.</p>
+            <p>Lord the unfeigned deſire of my Soul is, that thou mayeſt be <hi>formed</hi> in me, and take full <hi>poſſeſſion</hi> of me, that I may henceforth live by the <hi>Faith</hi> of <hi>thee</hi> the <hi>Son of God.</hi> I reſolve <hi>thy</hi> will ſhall be <hi>my</hi> will, <hi>thy</hi> life <hi>my</hi> pat<g ref="char:EOLhyphen"/>tern, <hi>thy</hi> Law <hi>my</hi> Rule. I will ſet my ſelf to <hi>reſiſt</hi> the <hi>temptations</hi> of the <hi>devil, deſpiſe</hi> the vanities of the <hi>world,</hi>
+               <pb n="61" facs="tcp:153921:34"/>and <hi>mortifie</hi> the carnal <hi>deſires</hi> of my <hi>fleſh;</hi> all <hi>afflictions</hi> ſhall ſeem <hi>light</hi> to me, and <hi>death</hi> it ſelf better than <hi>life,</hi> that I may <hi>obey</hi> thee, and <hi>live</hi> with thee.</p>
+            <p>I <hi>conſecrate</hi> my ſelf unto thee, to <hi>dye</hi> daily unto <hi>ſin,</hi> to <hi>Crucifie</hi> the <hi>fleſh,</hi> to <hi>riſe again</hi> unto <hi>Righteouſneſs,</hi> to have my <hi>Converſation</hi> in <hi>Heaven,</hi> my <hi>heart</hi> and <hi>affections</hi> with thee my only <hi>treaſure.</hi> My <hi>confidence</hi> is in thy <hi>me<g ref="char:EOLhyphen"/>rits,</hi> my <hi>Prayers</hi> ſent to God in thy <hi>name</hi> and <hi>interceſſion,</hi> my <hi>practice</hi> to be conformable to thy <hi>example,</hi> the <hi>longings</hi> of my Soul to be <hi>with</hi> thee for ever.</p>
+            <p>I will do my endeavour that my <hi>thoughts, words</hi> and <hi>actions</hi> may be ſuch as thou wilt <hi>approve</hi> of in the day of <hi>Judgment;</hi> I will not <hi>envy</hi> the pre<g ref="char:EOLhyphen"/>ſent <hi>happineſs</hi> of the <hi>wicked,</hi> nor be <hi>diſ-heartned</hi> by my <hi>ſuffering,</hi> but <hi>re<g ref="char:EOLhyphen"/>ferr</hi> all to thy Righteous <hi>Judgment;</hi> I will <hi>watch</hi> over my <hi>heart</hi> and <hi>life,</hi> and daily <hi>examine</hi> my <hi>Conſcience,</hi> and
+<pb n="62" facs="tcp:153921:35"/>keep it <hi>tender</hi> and <hi>good;</hi> and labour that the <hi>accuſer</hi> may have nothing to lay to my <hi>charge</hi> before thy <hi>Judgment Seat.</hi>
+            </p>
+            <p>I do heartily <hi>accept</hi> of thee, <hi>O Ho<g ref="char:EOLhyphen"/>ly Spirit</hi> of the <hi>Father,</hi> and the <hi>Son,</hi> for my <hi>Sanctifier,</hi> my <hi>Guide</hi> and <hi>Com<g ref="char:EOLhyphen"/>forter.</hi> I embrace the <hi>Holy Scriptures,</hi> given by thy <hi>inſpiration,</hi> as the infalli<g ref="char:EOLhyphen"/>ble <hi>truth</hi> of <hi>God;</hi> I <hi>own</hi> the <hi>Miniſtry</hi> as thine <hi>Ordinance,</hi> and every good <hi>motion</hi> of my heart, as thy <hi>work.</hi> To thee, <hi>O Holy Spirit,</hi> do I give up my ſelf in a conſtant attendance on the <hi>Word</hi> and <hi>Ordinances,</hi> and <hi>ſecret</hi> work<g ref="char:EOLhyphen"/>ings, longing to be <hi>quickned, enlightned, renewed</hi> and <hi>cleanſed, ſtrengthned</hi> againſt all temptations, carried on to<g ref="char:EOLhyphen"/>wards <hi>perfection, confirmed</hi> in the <hi>hopes</hi> of <hi>Eternal</hi> Life, and <hi>ſealed</hi> unto the day of <hi>Redemption.</hi>
+            </p>
+            <p>I look upon my ſelf as a <hi>member</hi> of the common <hi>body</hi> of all <hi>Chriſtians,</hi> and own <hi>thee, O Bleſſed Jeſus,</hi> the only <hi>head</hi> of this thy <hi>Body</hi> the <hi>Church.</hi> I
+<pb n="63" facs="tcp:153921:35"/>acknowledge it my Eternal <hi>Intereſt</hi> and <hi>Duty</hi> in the Holy <hi>Communion</hi> of all <hi>Believers</hi> to Worſhip <hi>thee, O Glorious God,</hi> in the <hi>Aſſemblies</hi> of thy <hi>Saints.</hi> I look upon all <hi>Chriſtians,</hi> and my ſelf amongſt them, as men <hi>ſeparated</hi> from the <hi>wicked</hi> world, <hi>enlivened</hi> by one <hi>Spirit, profeſſing</hi> one <hi>Faith</hi> of the Ho<g ref="char:EOLhyphen"/>ly <hi>Trinity,</hi> all <hi>Covenanted</hi> together with <hi>God</hi> in one <hi>Baptiſm,</hi> bound to hold the <hi>unity</hi> of the <hi>Spirit</hi> in the <hi>bond</hi> of <hi>peace,</hi> loving <hi>God</hi> above all, and <hi>each other</hi> as <hi>our ſelves,</hi> with a <hi>fellow feeling</hi> of one another's <hi>ſufferings,</hi> a free <hi>Communicating</hi> to one another's <hi>neceſſities, Temporal</hi> and <hi>Spiritual,</hi> and a mutual <hi>rejoycing</hi> in one another's <hi>happineſs.</hi>
+            </p>
+            <p>Continuing in this Holy <hi>Society,</hi> whereinto I have been graciouſly cal<g ref="char:EOLhyphen"/>led by thy <hi>Word</hi> and <hi>Holy Spirit,</hi> I will endeavour to <hi>ſolace</hi> and <hi>comfort</hi> my ſelf in a joyful ſenſe of the bleſſed <hi>pri<g ref="char:EOLhyphen"/>viledges</hi> thou therein affordeſt us: Eſ<g ref="char:EOLhyphen"/>pecially in the <hi>pardon</hi> of my ſins by
+<pb n="64" facs="tcp:153921:36"/>thy <hi>free mercy,</hi> through the <hi>merits</hi> of <hi>Chriſt</hi> my Saviour, and <hi>Sanctification</hi> of thy <hi>Holy Spirit,</hi> tendered unto me in the <hi>Miniſtry</hi> of thy word, and ſeal<g ref="char:EOLhyphen"/>ed in the <hi>Sacraments:</hi> I ſhould de<g ref="char:EOLhyphen"/>ſerve a thouſand <hi>Hells,</hi> ſhould I go on any longer in <hi>ſin,</hi> under ſo much <hi>mer<g ref="char:EOLhyphen"/>cy.</hi> I reſolve therefore to attend on the <hi>Miniſtry</hi> of <hi>reconciliation</hi> all the daies of my life, and to ſtrive againſt all <hi>ſin</hi> for ever.</p>
+            <p>To this end my <hi>death</hi> ſhall be <hi>much</hi> in my <hi>thoughts,</hi> and my <hi>life</hi> a continu<g ref="char:EOLhyphen"/>al <hi>preparation</hi> for it. I will look upon <hi>every</hi> day as if it were my <hi>laſt,</hi> and every day <hi>renew</hi> my <hi>Covenant;</hi> So ſhall I be ready with joy when thou calleſt, <hi>O Lord,</hi> to bid farewel to all <hi>below,</hi> and come to <hi>thee.</hi> I doubt not but my <hi>body</hi> ſhall at the laſt day be <hi>rai<g ref="char:EOLhyphen"/>ſed again</hi> a <hi>glorious body,</hi> no longer a <hi>burden</hi> or <hi>temptation</hi> to my <hi>Soul.</hi> I will no longer waſt my time in <hi>immode<g ref="char:EOLhyphen"/>rate</hi> caring for it, feeding, adorning and pampering of that which muſt
+<pb n="65" facs="tcp:153921:36"/>ſhortly be loathſome <hi>rottenneſs, Stench</hi> and <hi>Worms</hi> meat, which now <hi>loads</hi> and <hi>tempts</hi> my Soul to <hi>ſin,</hi> and hinders its <hi>Aſcenſions</hi> towards God; but I will <hi>mortifie</hi> it, and keep it <hi>low,</hi> that thou mayeſt exalt it to glory.</p>
+            <p>O thy wonderful goodneſs who haſt provided for us poor ſinners, a <hi>Life Everlaſting,</hi> who deſerve not one ſin<g ref="char:EOLhyphen"/>gle <hi>moment</hi> of <hi>this Life. Lord,</hi> grant me grace to be <hi>pure</hi> as thou art <hi>pure,</hi> that I may <hi>ſee</hi> thee, and <hi>rejoyce</hi> in thee for ever, in thy <hi>Heavenly</hi> Kingdom. O when ſhall I come and appear before God? <hi>Lord,</hi> it is certain that a <hi>world<g ref="char:EOLhyphen"/>ly, carnal</hi> heart, <hi>unconverted, unre<g ref="char:EOLhyphen"/>newed,</hi> is not capable of taking any <hi>pleaſure</hi> or <hi>delight</hi> in <hi>thee,</hi> nor can it find any <hi>happineſs</hi> in <hi>Heaven</hi> it ſelf, nor any <hi>reliſh</hi> in thoſe <hi>Heavenly</hi> pleaſures, which are at thy <hi>Right-hand</hi> for ever<g ref="char:EOLhyphen"/>more. <hi>Cleanſe</hi> me O <hi>Lord,</hi> and <hi>renew</hi> me daily by thy <hi>Spirit,</hi> then ſhall I cheerfully bid adieu to a <hi>vain</hi> world, <hi>empty</hi> pleaſures, <hi>frail</hi> life, and a <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="66" facs="tcp:153921:37"/>ſelf, and <hi>feed</hi> only on the <hi>hopes</hi> of <hi>Eter<g ref="char:EOLhyphen"/>nal Life,</hi> and <hi>enjoying, loving, prai<g ref="char:EOLhyphen"/>ſing thee</hi> my <hi>God,</hi> my <hi>All</hi> for ever<g ref="char:EOLhyphen"/>more; <hi>This</hi> O Lord thou haſt <hi>promiſed</hi> in thy <hi>word, this</hi> thou haſt <hi>aſſured</hi> us of, and <hi>ſealed</hi> unto us in the <hi>blood</hi> of thy <hi>Son; This</hi> thou <hi>confirmeſt</hi> unto all the <hi>Sanctified</hi> Members of thy <hi>Church</hi> by thy <hi>Holy Spirit.</hi> To all this I here moſt heartily ſay; <hi>Amen.</hi>
+            </p>
+            <closer>Come Lord Jeſus, come quickly. Amen.</closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:153921:37"/>
+            <pb facs="tcp:153921:38"/>
+         </div>
+      </body>
+   </text>
+</TEI>
